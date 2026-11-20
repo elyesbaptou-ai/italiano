@@ -1,0 +1,1560 @@
+{
+ "lessons": [
+  {
+   "id": "articles",
+   "title": "Les articles et le genre",
+   "category": "Bases de la phrase",
+   "level": 1,
+   "summary": "il, lo, la, l' : l'article dépend de la première lettre du nom.",
+   "sections": [
+    {
+     "title": "Le genre",
+     "body": "Comme en français, chaque nom est masculin ou féminin. Les noms en -o sont presque toujours masculins (il libro), ceux en -a surtout féminins (la casa). Les noms en -e peuvent être les deux : il fiore, la chiave.\nAttention aux différences avec le français : il fiore (la fleur), il colore (la couleur), il mare (la mer), la mano (la main)."
+    },
+    {
+     "title": "L'article défini",
+     "body": "Masculin : il devant une consonne (il libro), lo devant s + consonne, z, gn, ps (lo studente, lo zaino), l' devant une voyelle (l'amico).\nFéminin : la (la casa), l' devant une voyelle (l'acqua)."
+    },
+    {
+     "title": "L'article indéfini",
+     "body": "Masculin : un (un libro, un amico), uno devant s + consonne et z (uno studente, uno zaino).\nFéminin : una (una casa), un' devant une voyelle (un'amica)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "il ragazzo e la ragazza",
+     "roman": "il ra-GAT-tso é la ra-GAT-tsa",
+     "fr": "le garçon et la fille"
+    },
+    {
+     "ko": "lo zaino e l'ombrello",
+     "roman": "lo DZAÏ-no é l'omm-BRÈL-lo",
+     "fr": "le sac à dos et le parapluie"
+    },
+    {
+     "ko": "un amico e un'amica",
+     "roman": "ounn a-MI-ko é ounn'a-MI-ka",
+     "fr": "un ami et une amie"
+    },
+    {
+     "ko": "uno studente francese",
+     "roman": "OU-no stou-DÈNN-té frann-TCHÉ-sé",
+     "fr": "un étudiant français"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Quel article va avec « studente » ?",
+     "answer": "lo",
+     "wrong": [
+      "il",
+      "l'"
+     ],
+     "why": "Devant s + consonne, on met lo : lo studente."
+    },
+    {
+     "question": "Comment dit-on « une amie » ?",
+     "answer": "un'amica",
+     "wrong": [
+      "un amica",
+      "una amica"
+     ],
+     "why": "Devant une voyelle, una devient un' (avec apostrophe)."
+    },
+    {
+     "question": "« Il fiore » est…",
+     "answer": "masculin",
+     "wrong": [
+      "féminin",
+      "neutre"
+     ],
+     "why": "La fleur est masculine en italien : il fiore."
+    }
+   ]
+  },
+  {
+   "id": "plural",
+   "title": "Le pluriel des noms et des adjectifs",
+   "category": "Bases de la phrase",
+   "level": 1,
+   "summary": "-o devient -i, -a devient -e, -e devient -i.",
+   "sections": [
+    {
+     "title": "La règle",
+     "body": "Masculin en -o : -i (il libro → i libri). Féminin en -a : -e (la casa → le case). Noms en -e : -i, qu'ils soient masculins ou féminins (il fiore → i fiori, la chiave → le chiavi)."
+    },
+    {
+     "title": "Les articles au pluriel",
+     "body": "il → i (i libri), lo et l' masculin → gli (gli studenti, gli amici), la et l' féminin → le (le case, le amiche)."
+    },
+    {
+     "title": "Les mots invariables",
+     "body": "Les mots accentués sur la dernière syllabe (la città → le città), les mots d'une syllabe (il re), les mots étrangers (il computer → i computer) et les abréviations (la foto → le foto) ne changent pas.\nQuelques pluriels irréguliers : l'uomo → gli uomini, l'uovo → le uova, la mano → le mani."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "i ragazzi e le ragazze",
+     "roman": "i ra-GAT-tsi é lé ra-GAT-tsé",
+     "fr": "les garçons et les filles"
+    },
+    {
+     "ko": "gli amici italiani",
+     "roman": "lyi a-MI-tchi i-ta-LIA-ni",
+     "fr": "les amis italiens"
+    },
+    {
+     "ko": "le città antiche",
+     "roman": "lé tchit-TA ann-TI-ké",
+     "fr": "les villes anciennes"
+    },
+    {
+     "ko": "due caffè, per favore",
+     "roman": "doué kaf-FÉ pèr fa-VO-ré",
+     "fr": "deux cafés, s'il vous plaît"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Le pluriel de « la chiave » est…",
+     "answer": "le chiavi",
+     "wrong": [
+      "le chiave",
+      "la chiavi"
+     ],
+     "why": "Les noms en -e font leur pluriel en -i, même au féminin."
+    },
+    {
+     "question": "Le pluriel de « lo zaino » est…",
+     "answer": "gli zaini",
+     "wrong": [
+      "i zaini",
+      "lo zaini"
+     ],
+     "why": "Lo devient gli au pluriel."
+    },
+    {
+     "question": "Le pluriel de « il caffè » est…",
+     "answer": "i caffè",
+     "wrong": [
+      "i caffi",
+      "i caffès"
+     ],
+     "why": "Un mot accentué sur la dernière syllabe ne change pas."
+    }
+   ]
+  },
+  {
+   "id": "essere_avere",
+   "title": "Essere et avere",
+   "category": "Verbes essentiels",
+   "level": 1,
+   "summary": "Les deux verbes de base, irréguliers, à connaître par cœur.",
+   "sections": [
+    {
+     "title": "Essere (être)",
+     "body": "io sono, tu sei, lui / lei è, noi siamo, voi siete, loro sono.\nLe pronom sujet est souvent omis : le verbe suffit à savoir qui parle. Sono francese = je suis français."
+    },
+    {
+     "title": "Avere (avoir)",
+     "body": "io ho, tu hai, lui / lei ha, noi abbiamo, voi avete, loro hanno. Le h ne se prononce jamais : il sert à distinguer ho (j'ai) de o (ou)."
+    },
+    {
+     "title": "Les expressions avec avere",
+     "body": "Comme en français : avere fame (avoir faim), avere sete, avere freddo, avere 20 anni."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Sono di Marsiglia.",
+     "roman": "SO-no di mar-SI-lya",
+     "fr": "Je suis de Marseille."
+    },
+    {
+     "ko": "Siamo stanchi.",
+     "roman": "SIA-mo STANN-ki",
+     "fr": "Nous sommes fatigués."
+    },
+    {
+     "ko": "Ho una sorella.",
+     "roman": "o OU-na so-RÈL-la",
+     "fr": "J'ai une sœur."
+    },
+    {
+     "ko": "Hanno fame.",
+     "roman": "ANN-no FA-mé",
+     "fr": "Ils ont faim."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Noi ___ italiani.",
+     "answer": "siamo",
+     "wrong": [
+      "sono",
+      "siete"
+     ],
+     "why": "Essere avec noi : siamo."
+    },
+    {
+     "question": "Tu ___ un cane ?",
+     "answer": "hai",
+     "wrong": [
+      "ha",
+      "ho"
+     ],
+     "why": "Avere avec tu : hai."
+    },
+    {
+     "question": "Quel âge as-tu ? → Quanti anni ___ ?",
+     "answer": "hai",
+     "wrong": [
+      "sei",
+      "stai"
+     ],
+     "why": "L'âge se dit avec avere, comme en français."
+    }
+   ]
+  },
+  {
+   "id": "present_regular",
+   "title": "Le présent des verbes réguliers",
+   "category": "Verbes essentiels",
+   "level": 1,
+   "summary": "Trois groupes : -are, -ere, -ire.",
+   "sections": [
+    {
+     "title": "Les terminaisons",
+     "body": "-are (parlare) : parlo, parli, parla, parliamo, parlate, parlano.\n-ere (prendere) : prendo, prendi, prende, prendiamo, prendete, prendono.\n-ire (dormire) : dormo, dormi, dorme, dormiamo, dormite, dormono."
+    },
+    {
+     "title": "Les verbes en -isc-",
+     "body": "Certains verbes en -ire ajoutent -isc- au singulier et à la 3e personne du pluriel : capire → capisco, capisci, capisce, capiamo, capite, capiscono. De même : finire, preferire, pulire."
+    },
+    {
+     "title": "L'accent",
+     "body": "À la 3e personne du pluriel, l'accent tombe sur la même syllabe qu'au singulier : PAR-la-no, comme PAR-lo."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Parlo un po' di italiano.",
+     "roman": "PAR-lo ounn po'di i-ta-LIA-no",
+     "fr": "Je parle un peu italien."
+    },
+    {
+     "ko": "Prendi il treno?",
+     "roman": "PRÈNN-di il TRÉ-no ?",
+     "fr": "Tu prends le train ?"
+    },
+    {
+     "ko": "Dormono fino a tardi.",
+     "roman": "DOR-mo-no FI-no a TAR-di",
+     "fr": "Ils dorment jusque tard."
+    },
+    {
+     "ko": "Non capisco.",
+     "roman": "nonn ka-PI-sko",
+     "fr": "Je ne comprends pas."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Noi (abitare) ___ a Roma.",
+     "answer": "abitiamo",
+     "wrong": [
+      "abitamo",
+      "abitano"
+     ],
+     "why": "Noi : toujours -iamo, quel que soit le groupe."
+    },
+    {
+     "question": "Loro (scrivere) ___ una lettera.",
+     "answer": "scrivono",
+     "wrong": [
+      "scrivano",
+      "scriveno"
+     ],
+     "why": "Verbe en -ere : loro → -ono."
+    },
+    {
+     "question": "Io (finire) ___ alle sei.",
+     "answer": "finisco",
+     "wrong": [
+      "fino",
+      "finio"
+     ],
+     "why": "Finire prend -isc- : finisco."
+    }
+   ]
+  },
+  {
+   "id": "present_irregular",
+   "title": "Le présent des verbes irréguliers",
+   "category": "Verbes essentiels",
+   "level": 2,
+   "summary": "andare, fare, venire, volere, potere, dovere…",
+   "sections": [
+    {
+     "title": "Les plus fréquents",
+     "body": "andare : vado, vai, va, andiamo, andate, vanno.\nfare : faccio, fai, fa, facciamo, fate, fanno.\nvenire : vengo, vieni, viene, veniamo, venite, vengono.\nuscire : esco, esci, esce, usciamo, uscite, escono."
+    },
+    {
+     "title": "Les verbes de modalité",
+     "body": "volere : voglio, vuoi, vuole, vogliamo, volete, vogliono.\npotere : posso, puoi, può, possiamo, potete, possono.\ndovere : devo, devi, deve, dobbiamo, dovete, devono.\nIls sont suivis d'un infinitif : devo partire, posso entrare?"
+    },
+    {
+     "title": "Stare",
+     "body": "stare : sto, stai, sta, stiamo, state, stanno. Il sert à dire comment on va (sto bene) et à former l'action en cours (sto leggendo)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Vado al mare.",
+     "roman": "VA-do al MA-ré",
+     "fr": "Je vais à la mer."
+    },
+    {
+     "ko": "Che cosa fai stasera?",
+     "roman": "ké KO-sa faï sta-SÉ-ra ?",
+     "fr": "Que fais-tu ce soir ?"
+    },
+    {
+     "ko": "Posso entrare?",
+     "roman": "POS-so ènn-TRA-ré ?",
+     "fr": "Je peux entrer ?"
+    },
+    {
+     "ko": "Dobbiamo partire presto.",
+     "roman": "dob-BIA-mo par-TI-ré PRÉ-sto",
+     "fr": "Nous devons partir tôt."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Io ___ in ufficio a piedi. (andare)",
+     "answer": "vado",
+     "wrong": [
+      "ando",
+      "vo"
+     ],
+     "why": "Andare est irrégulier : vado."
+    },
+    {
+     "question": "Tu ___ venire con noi? (volere)",
+     "answer": "vuoi",
+     "wrong": [
+      "voli",
+      "vogli"
+     ],
+     "why": "Volere : voglio, vuoi, vuole."
+    },
+    {
+     "question": "Lui ___ la spesa. (fare)",
+     "answer": "fa",
+     "wrong": [
+      "fà",
+      "fae"
+     ],
+     "why": "Fare : faccio, fai, fa (sans accent)."
+    }
+   ]
+  },
+  {
+   "id": "piacere",
+   "title": "Piacere : dire ce qu'on aime",
+   "category": "Verbes essentiels",
+   "level": 1,
+   "summary": "« Mi piace » : c'est la chose qui plaît.",
+   "sections": [
+    {
+     "title": "Le principe",
+     "body": "En italien, on ne dit pas « j'aime le café » mais « le café me plaît » : mi piace il caffè. La chose aimée est le sujet du verbe.\nSi la chose est au pluriel, le verbe aussi : mi piacciono i gatti."
+    },
+    {
+     "title": "Les pronoms",
+     "body": "mi (à moi), ti (à toi), gli (à lui), le (à elle), ci (à nous), vi (à vous), gli (à eux).\nAvec un infinitif, toujours au singulier : mi piace viaggiare."
+    },
+    {
+     "title": "Ne pas aimer",
+     "body": "Non mi piace. Pour insister : non mi piace per niente (pas du tout)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Mi piace la pizza.",
+     "roman": "mi PIA-tché la PIT-tsa",
+     "fr": "J'aime la pizza."
+    },
+    {
+     "ko": "Ti piacciono i film italiani?",
+     "roman": "ti PIAT-tcho-no i film i-ta-LIA-ni ?",
+     "fr": "Tu aimes les films italiens ?"
+    },
+    {
+     "ko": "A Marco piace ballare.",
+     "roman": "a MAR-ko PIA-tché bal-LA-ré",
+     "fr": "Marco aime danser."
+    },
+    {
+     "ko": "Non ci piace il freddo.",
+     "roman": "nonn tchi PIA-tché il FRÈD-do",
+     "fr": "Nous n'aimons pas le froid."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Mi ___ le fragole.",
+     "answer": "piacciono",
+     "wrong": [
+      "piace",
+      "piaccio"
+     ],
+     "why": "Le sujet est pluriel (le fragole) : piacciono."
+    },
+    {
+     "question": "Ti ___ cantare?",
+     "answer": "piace",
+     "wrong": [
+      "piacciono",
+      "piaci"
+     ],
+     "why": "Un infinitif est toujours suivi du singulier : piace."
+    },
+    {
+     "question": "« Elle aime le thé » =",
+     "answer": "Le piace il tè.",
+     "wrong": [
+      "Gli piace il tè.",
+      "Lei piace il tè."
+     ],
+     "why": "À elle = le."
+    }
+   ]
+  },
+  {
+   "id": "possessives",
+   "title": "Les possessifs et les démonstratifs",
+   "category": "Bases de la phrase",
+   "level": 1,
+   "summary": "il mio, la tua… et questo, quello.",
+   "sections": [
+    {
+     "title": "Les possessifs prennent l'article",
+     "body": "il mio libro, la mia casa, i miei amici, le mie amiche. De même : tuo, suo, nostro, vostro, loro (invariable).\nSuo veut dire « son, sa » et aussi « votre » (Lei) : il suo nome, signora?"
+    },
+    {
+     "title": "L'exception de la famille",
+     "body": "Avec un nom de famille au singulier, pas d'article : mia madre, tuo fratello. Mais au pluriel ou avec loro, on le garde : i miei fratelli, la loro madre."
+    },
+    {
+     "title": "Questo et quello",
+     "body": "Questo (ce… ci, proche) : questo libro, questa casa. Quello (ce… là, éloigné) se décline comme l'article : quel ragazzo, quello zaino, quell'albero."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Questa è la mia macchina.",
+     "roman": "KOUÉ-sta É la MI-a MAK-ki-na",
+     "fr": "C'est ma voiture."
+    },
+    {
+     "ko": "Mia sorella vive a Torino.",
+     "roman": "MI-a so-RÈL-la VI-vé a to-RI-no",
+     "fr": "Ma sœur vit à Turin."
+    },
+    {
+     "ko": "I nostri vicini sono simpatici.",
+     "roman": "i NO-stri vi-TCHI-ni SO-no simm-PA-ti-tchi",
+     "fr": "Nos voisins sont sympathiques."
+    },
+    {
+     "ko": "Quel ristorante è caro.",
+     "roman": "kouèl ri-sto-RANN-té É KA-ro",
+     "fr": "Ce restaurant-là est cher."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "« Ma mère » =",
+     "answer": "mia madre",
+     "wrong": [
+      "la mia madre",
+      "mio madre"
+     ],
+     "why": "Nom de famille au singulier : pas d'article."
+    },
+    {
+     "question": "« Mes amis » =",
+     "answer": "i miei amici",
+     "wrong": [
+      "i mii amici",
+      "mie amici"
+     ],
+     "why": "Masculin pluriel : i miei."
+    },
+    {
+     "question": "___ libro è interessante. (ce livre-ci)",
+     "answer": "Questo",
+     "wrong": [
+      "Questa",
+      "Quello"
+     ],
+     "why": "Livre est masculin et proche : questo."
+    }
+   ]
+  },
+  {
+   "id": "ce",
+   "title": "C'è, ci sono et dov'è",
+   "category": "Bases de la phrase",
+   "level": 1,
+   "summary": "Dire qu'une chose existe ou où elle se trouve.",
+   "sections": [
+    {
+     "title": "Il y a",
+     "body": "C'è + singulier : c'è un bar qui vicino. Ci sono + pluriel : ci sono molti turisti.\nÀ la question : c'è una farmacia? Non c'è = il n'y en a pas."
+    },
+    {
+     "title": "Situer une chose connue",
+     "body": "Pour une chose précise, on utilise essere : dov'è la stazione? La stazione è in centro."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "C'è un problema.",
+     "roman": "tch'É ounn pro-BLÉ-ma",
+     "fr": "Il y a un problème."
+    },
+    {
+     "ko": "Ci sono due camere libere.",
+     "roman": "tchi SO-no doué ka-MÉ-ré li-BÉ-ré",
+     "fr": "Il y a deux chambres libres."
+    },
+    {
+     "ko": "Dov'è il museo?",
+     "roman": "dov'É il mou-SÉ-o ?",
+     "fr": "Où est le musée ?"
+    },
+    {
+     "ko": "Le chiavi sono sul tavolo.",
+     "roman": "lé KIA-vi SO-no soul TA-vo-lo",
+     "fr": "Les clés sont sur la table."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "___ tre bambini nel parco.",
+     "answer": "Ci sono",
+     "wrong": [
+      "C'è",
+      "Sono"
+     ],
+     "why": "Pluriel : ci sono."
+    },
+    {
+     "question": "Scusi, ___ un bancomat qui vicino?",
+     "answer": "c'è",
+     "wrong": [
+      "ci sono",
+      "è"
+     ],
+     "why": "Singulier, existence : c'è."
+    },
+    {
+     "question": "Dove ___ il Colosseo?",
+     "answer": "è",
+     "wrong": [
+      "c'è",
+      "ci sono"
+     ],
+     "why": "Une chose précise qu'on situe : è."
+    }
+   ]
+  },
+  {
+   "id": "questions",
+   "title": "Poser des questions",
+   "category": "Bases de la phrase",
+   "level": 1,
+   "summary": "L'intonation suffit, plus les mots interrogatifs.",
+   "sections": [
+    {
+     "title": "La question simple",
+     "body": "L'ordre des mots ne change pas : seule l'intonation monte. Parli inglese? (Tu parles anglais ?)"
+    },
+    {
+     "title": "Les mots interrogatifs",
+     "body": "chi (qui), che cosa / cosa (quoi), dove (où), quando (quand), come (comment), perché (pourquoi), quanto / quanta / quanti / quante (combien), quale (quel).\nDove + è s'écrit dov'è, come + è s'écrit com'è."
+    },
+    {
+     "title": "Répondre à perché",
+     "body": "Perché sert aussi pour répondre : perché? Perché sono stanco. (Pourquoi ? Parce que je suis fatigué.)"
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Come ti chiami?",
+     "roman": "KO-mé ti KIA-mi ?",
+     "fr": "Comment t'appelles-tu ?"
+    },
+    {
+     "ko": "Quanti anni hai?",
+     "roman": "KOUANN-ti ANN-ni aï ?",
+     "fr": "Quel âge as-tu ?"
+    },
+    {
+     "ko": "Quando parte il treno?",
+     "roman": "KOUANN-do PAR-té il TRÉ-no ?",
+     "fr": "Quand part le train ?"
+    },
+    {
+     "ko": "Perché non vieni?",
+     "roman": "pèr-KÉ nonn VIÉ-ni ?",
+     "fr": "Pourquoi tu ne viens pas ?"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "___ costa questo? (combien)",
+     "answer": "Quanto",
+     "wrong": [
+      "Quale",
+      "Come"
+     ],
+     "why": "Combien = quanto."
+    },
+    {
+     "question": "___ abiti? A Milano.",
+     "answer": "Dove",
+     "wrong": [
+      "Quando",
+      "Chi"
+     ],
+     "why": "La réponse est un lieu : dove."
+    },
+    {
+     "question": "« Parce que » se dit…",
+     "answer": "perché",
+     "wrong": [
+      "per che",
+      "poiché sempre"
+     ],
+     "why": "Le même mot que « pourquoi »."
+    }
+   ]
+  },
+  {
+   "id": "prepositions",
+   "title": "Les prépositions et leurs contractions",
+   "category": "Prépositions",
+   "level": 2,
+   "summary": "di, a, da, in, su + article : del, al, dal, nel, sul.",
+   "sections": [
+    {
+     "title": "Les contractions",
+     "body": "Ces prépositions se collent à l'article défini : di + il = del, a + il = al, da + il = dal, in + il = nel, su + il = sul. De même avec les autres articles : della, alla, nello, negli, sulle…"
+    },
+    {
+     "title": "À, en, dans",
+     "body": "a + ville (vado a Roma), in + pays ou région (vado in Italia), in + moyen de transport (in treno), a + infinitif après andare (vado a mangiare)."
+    },
+    {
+     "title": "Da",
+     "body": "Da = chez (vado dal medico), depuis (studio italiano da un anno), de provenance (vengo da Parigi)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Vado al cinema.",
+     "roman": "VA-do al TCHI-né-ma",
+     "fr": "Je vais au cinéma."
+    },
+    {
+     "ko": "Il libro è sul tavolo.",
+     "roman": "il LI-bro É soul TA-vo-lo",
+     "fr": "Le livre est sur la table."
+    },
+    {
+     "ko": "Abito in Francia, a Lione.",
+     "roman": "A-bi-to inn FRANN-tcha a LIO-né",
+     "fr": "J'habite en France, à Lyon."
+    },
+    {
+     "ko": "Vado dal dentista.",
+     "roman": "VA-do dal dènn-TI-sta",
+     "fr": "Je vais chez le dentiste."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Le chiavi sono ___ borsa. (dans le)",
+     "answer": "nella",
+     "wrong": [
+      "nel",
+      "in la"
+     ],
+     "why": "In + la = nella."
+    },
+    {
+     "question": "Studio italiano ___ due anni. (depuis)",
+     "answer": "da",
+     "wrong": [
+      "per",
+      "di"
+     ],
+     "why": "Depuis + durée = da, avec le présent."
+    },
+    {
+     "question": "Vado ___ Spagna in estate.",
+     "answer": "in",
+     "wrong": [
+      "a",
+      "nella"
+     ],
+     "why": "Pays : in, sans article."
+    }
+   ]
+  },
+  {
+   "id": "reflexive",
+   "title": "Les verbes pronominaux",
+   "category": "Verbes essentiels",
+   "level": 2,
+   "summary": "mi alzo, ti lavi, si veste…",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "Le pronom réfléchi se place avant le verbe conjugué : mi alzo, ti alzi, si alza, ci alziamo, vi alzate, si alzano.\nÀ l'infinitif, il s'accroche à la fin : devo alzarmi presto (ou mi devo alzare)."
+    },
+    {
+     "title": "Les plus courants",
+     "body": "svegliarsi (se réveiller), alzarsi (se lever), lavarsi, vestirsi, chiamarsi, divertirsi (s'amuser), sentirsi (se sentir), sposarsi (se marier).\nAu passé, ils prennent essere : mi sono alzato alle sette."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Mi chiamo Luca.",
+     "roman": "mi KIA-mo LOU-ka",
+     "fr": "Je m'appelle Luca."
+    },
+    {
+     "ko": "A che ora ti svegli?",
+     "roman": "a ké O-ra ti SVÉ-lyi ?",
+     "fr": "À quelle heure tu te réveilles ?"
+    },
+    {
+     "ko": "Ci divertiamo molto.",
+     "roman": "tchi di-vèr-TIA-mo MOL-to",
+     "fr": "Nous nous amusons beaucoup."
+    },
+    {
+     "ko": "Si sono sposati a giugno.",
+     "roman": "si SO-no spo-SA-ti a DJOU-gno",
+     "fr": "Ils se sont mariés en juin."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Io ___ alle otto. (svegliarsi)",
+     "answer": "mi sveglio",
+     "wrong": [
+      "si sveglio",
+      "ti sveglio"
+     ],
+     "why": "Io : mi."
+    },
+    {
+     "question": "Noi ___ al mare. (divertirsi)",
+     "answer": "ci divertiamo",
+     "wrong": [
+      "si divertiamo",
+      "vi divertiamo"
+     ],
+     "why": "Noi : ci."
+    },
+    {
+     "question": "Ieri ___ tardi. (io, alzarsi)",
+     "answer": "mi sono alzato",
+     "wrong": [
+      "mi ho alzato",
+      "ho alzato"
+     ],
+     "why": "Les pronominaux prennent essere au passé."
+    }
+   ]
+  },
+  {
+   "id": "gerund",
+   "title": "Stare + gérondif : l'action en cours",
+   "category": "Le temps",
+   "level": 2,
+   "summary": "Sto mangiando = je suis en train de manger.",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "Stare au présent + gérondif. Le gérondif : -are → -ando (parlando), -ere et -ire → -endo (leggendo, dormendo).\nIrréguliers : fare → facendo, bere → bevendo, dire → dicendo."
+    },
+    {
+     "title": "L'emploi",
+     "body": "Seulement pour une action en train de se faire : sto lavorando, non posso parlare. Pour une habitude, on garde le présent simple."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Sto studiando.",
+     "roman": "sto stou-DIANN-do",
+     "fr": "Je suis en train d'étudier."
+    },
+    {
+     "ko": "Cosa stai facendo?",
+     "roman": "KO-sa staï fa-TCHÈNN-do ?",
+     "fr": "Qu'est-ce que tu es en train de faire ?"
+    },
+    {
+     "ko": "Stanno dormendo.",
+     "roman": "STANN-no dor-MÈNN-do",
+     "fr": "Ils sont en train de dormir."
+    },
+    {
+     "ko": "Sta piovendo.",
+     "roman": "sta pio-VÈNN-do",
+     "fr": "Il est en train de pleuvoir."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Marco sta (leggere) ___.",
+     "answer": "leggendo",
+     "wrong": [
+      "leggando",
+      "letto"
+     ],
+     "why": "Verbe en -ere : -endo."
+    },
+    {
+     "question": "Noi ___ cucinando.",
+     "answer": "stiamo",
+     "wrong": [
+      "siamo",
+      "stanno"
+     ],
+     "why": "Stare avec noi : stiamo."
+    },
+    {
+     "question": "Il gérondif de « fare » est…",
+     "answer": "facendo",
+     "wrong": [
+      "fando",
+      "facciando"
+     ],
+     "why": "Fare se construit sur l'ancien infinitif facere."
+    }
+   ]
+  },
+  {
+   "id": "passato_avere",
+   "title": "Le passé composé avec avere",
+   "category": "Le temps",
+   "level": 2,
+   "summary": "Ho mangiato : l'action passée et terminée.",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "Avere au présent + participe passé : ho parlato, hai preso, ha dormito.\nParticipes réguliers : -are → -ato (parlato), -ere → -uto (venduto), -ire → -ito (dormito)."
+    },
+    {
+     "title": "Les participes irréguliers",
+     "body": "fare → fatto, dire → detto, prendere → preso, mettere → messo, leggere → letto, scrivere → scritto, vedere → visto, aprire → aperto, chiudere → chiuso, bere → bevuto."
+    },
+    {
+     "title": "L'emploi",
+     "body": "C'est le passé de la conversation : ieri ho visto un film. Avec avere, le participe ne s'accorde pas avec le sujet."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Ho mangiato troppo.",
+     "roman": "o mann-DJA-to TROP-po",
+     "fr": "J'ai trop mangé."
+    },
+    {
+     "ko": "Hai visto Marco?",
+     "roman": "aï VI-sto MAR-ko ?",
+     "fr": "Tu as vu Marco ?"
+    },
+    {
+     "ko": "Abbiamo fatto una passeggiata.",
+     "roman": "ab-BIA-mo FAT-to OU-na pas-sèd-DJA-ta",
+     "fr": "Nous avons fait une promenade."
+    },
+    {
+     "ko": "Hanno preso il treno.",
+     "roman": "ANN-no PRÉ-so il TRÉ-no",
+     "fr": "Ils ont pris le train."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Ieri ___ una pizza. (io, mangiare)",
+     "answer": "ho mangiato",
+     "wrong": [
+      "sono mangiato",
+      "ho mangiata"
+     ],
+     "why": "Avere + participe invariable."
+    },
+    {
+     "question": "Il participe de « scrivere » est…",
+     "answer": "scritto",
+     "wrong": [
+      "scrivuto",
+      "scriveto"
+     ],
+     "why": "Irrégulier : scritto."
+    },
+    {
+     "question": "Cosa ___ fatto ieri? (tu)",
+     "answer": "hai",
+     "wrong": [
+      "sei",
+      "ha"
+     ],
+     "why": "Avere avec tu : hai."
+    }
+   ]
+  },
+  {
+   "id": "passato_essere",
+   "title": "Le passé composé avec essere",
+   "category": "Le temps",
+   "level": 2,
+   "summary": "Sono andato : verbes de mouvement et d'état.",
+   "sections": [
+    {
+     "title": "Quels verbes ?",
+     "body": "Essere s'emploie avec la plupart des verbes de mouvement (andare, venire, arrivare, partire, uscire, entrare, tornare), d'état (stare, restare, essere) et de changement (nascere, morire, diventare), et avec les pronominaux."
+    },
+    {
+     "title": "L'accord",
+     "body": "Avec essere, le participe s'accorde comme un adjectif : sono andato (homme), sono andata (femme), siamo andati, siamo andate."
+    },
+    {
+     "title": "Différence avec le français",
+     "body": "Plusieurs verbes prennent essere en italien et avoir en français : è piaciuto (ça a plu), è costato (ça a coûté), è durato (ça a duré)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Sono arrivato ieri.",
+     "roman": "SO-no ar-ri-VA-to IÉ-ri",
+     "fr": "Je suis arrivé hier."
+    },
+    {
+     "ko": "Maria è partita alle otto.",
+     "roman": "MA-ria É par-TI-ta AL-lé OT-to",
+     "fr": "Maria est partie à huit heures."
+    },
+    {
+     "ko": "Siamo stati a Venezia.",
+     "roman": "SIA-mo STA-ti a vé-NÉ-tsia",
+     "fr": "Nous avons été à Venise."
+    },
+    {
+     "ko": "Il film mi è piaciuto.",
+     "roman": "il film mi É pia-TCHOU-to",
+     "fr": "Le film m'a plu."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Giulia ___ a casa. (tornare)",
+     "answer": "è tornata",
+     "wrong": [
+      "ha tornato",
+      "è tornato"
+     ],
+     "why": "Essere + accord au féminin."
+    },
+    {
+     "question": "Noi ___ al cinema. (andare, groupe mixte)",
+     "answer": "siamo andati",
+     "wrong": [
+      "abbiamo andato",
+      "siamo andato"
+     ],
+     "why": "Pluriel mixte : -i."
+    },
+    {
+     "question": "Quanto ___ il biglietto?",
+     "answer": "è costato",
+     "wrong": [
+      "ha costato",
+      "è costata"
+     ],
+     "why": "Costare prend essere ; biglietto est masculin."
+    }
+   ]
+  },
+  {
+   "id": "imperfect",
+   "title": "L'imparfait",
+   "category": "Le temps",
+   "level": 2,
+   "summary": "Parlavo, leggevo : décrire et raconter des habitudes passées.",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "On enlève -re et on ajoute -vo, -vi, -va, -vamo, -vate, -vano : parlavo, leggevo, dormivo.\nEssere est irrégulier : ero, eri, era, eravamo, eravate, erano. Fare → facevo, bere → bevevo, dire → dicevo."
+    },
+    {
+     "title": "L'emploi",
+     "body": "Comme en français : une habitude passée (da piccolo giocavo a calcio), une description (era una bella giornata), une action en cours interrompue (mentre leggevo, è arrivato Marco)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Quando ero bambino, abitavo a Napoli.",
+     "roman": "KOUANN-do É-ro bamm-BI-no a-bi-TA-vo a NA-po-li",
+     "fr": "Quand j'étais enfant, j'habitais à Naples."
+    },
+    {
+     "ko": "Faceva freddo.",
+     "roman": "fa-TCHÉ-va FRÈD-do",
+     "fr": "Il faisait froid."
+    },
+    {
+     "ko": "Ogni estate andavamo al mare.",
+     "roman": "O-gni é-STA-té ann-da-VA-mo al MA-ré",
+     "fr": "Chaque été, nous allions à la mer."
+    },
+    {
+     "ko": "Mentre dormivo, è suonato il telefono.",
+     "roman": "MÈNN-tré dor-MI-vo É souo-NA-to il té-LÉ-fo-no",
+     "fr": "Pendant que je dormais, le téléphone a sonné."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Da piccolo (io, giocare) ___ sempre in giardino.",
+     "answer": "giocavo",
+     "wrong": [
+      "ho giocato",
+      "giocava"
+     ],
+     "why": "Habitude passée : imparfait."
+    },
+    {
+     "question": "Ieri (essere) ___ stanchissimo.",
+     "answer": "ero",
+     "wrong": [
+      "essevo",
+      "eravo"
+     ],
+     "why": "Essere à l'imparfait : ero."
+    },
+    {
+     "question": "Mentre (noi, mangiare) ___, è arrivato Luca.",
+     "answer": "mangiavamo",
+     "wrong": [
+      "abbiamo mangiato",
+      "mangiammo"
+     ],
+     "why": "Action en cours interrompue : imparfait."
+    }
+   ]
+  },
+  {
+   "id": "future",
+   "title": "Le futur simple",
+   "category": "Le temps",
+   "level": 3,
+   "summary": "Parlerò, prenderò : l'infinitif sans -e + une terminaison.",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "Terminaisons : -ò, -ai, -à, -emo, -ete, -anno. Les verbes en -are changent le a en e : parlare → parlerò.\nIrréguliers : essere → sarò, avere → avrò, andare → andrò, fare → farò, venire → verrò, potere → potrò, volere → vorrò, dovere → dovrò."
+    },
+    {
+     "title": "L'emploi",
+     "body": "Pour l'avenir, mais à l'oral le présent suffit souvent : domani parto. Le futur sert aussi à faire une supposition : saranno le dieci (il doit être dix heures)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "L'anno prossimo andrò in Sicilia.",
+     "roman": "l'ANN-no PROS-si-mo ann-DRO inn si-TCHI-lia",
+     "fr": "L'année prochaine, j'irai en Sicile."
+    },
+    {
+     "ko": "Domani pioverà.",
+     "roman": "do-MA-ni pio-vé-RA",
+     "fr": "Demain, il pleuvra."
+    },
+    {
+     "ko": "Ti chiamerò stasera.",
+     "roman": "ti kia-mé-RO sta-SÉ-ra",
+     "fr": "Je t'appellerai ce soir."
+    },
+    {
+     "ko": "Dove sarà Marco?",
+     "roman": "DO-vé sa-RA MAR-ko ?",
+     "fr": "Où peut bien être Marco ?"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Noi (parlare) ___ con il direttore.",
+     "answer": "parleremo",
+     "wrong": [
+      "parlaremo",
+      "parliamo stato"
+     ],
+     "why": "Les verbes en -are : a → e au futur."
+    },
+    {
+     "question": "Domani (io, essere) ___ a casa.",
+     "answer": "sarò",
+     "wrong": [
+      "esserò",
+      "sono stato"
+     ],
+     "why": "Essere : sarò."
+    },
+    {
+     "question": "Che ore sono? ___ le nove.",
+     "answer": "Saranno",
+     "wrong": [
+      "Sarò",
+      "Furono"
+     ],
+     "why": "Le futur exprime une supposition."
+    }
+   ]
+  },
+  {
+   "id": "conditional",
+   "title": "Le conditionnel",
+   "category": "Le temps",
+   "level": 3,
+   "summary": "Vorrei, potrei : être poli et imaginer.",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "Même radical que le futur + -ei, -esti, -ebbe, -emmo, -este, -ebbero : parlerei, prenderei. Irréguliers : vorrei, potrei, dovrei, sarei, avrei, andrei."
+    },
+    {
+     "title": "L'emploi",
+     "body": "La politesse : vorrei un caffè (je voudrais), potrebbe aiutarmi? (pourriez-vous). Le conseil : dovresti riposare (tu devrais). L'hypothèse : al tuo posto, partirei."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Vorrei prenotare un tavolo.",
+     "roman": "VOR-réï pré-no-TA-ré ounn TA-vo-lo",
+     "fr": "Je voudrais réserver une table."
+    },
+    {
+     "ko": "Potresti chiudere la finestra?",
+     "roman": "po-TRÉ-sti KIOU-dé-ré la fi-NÉ-stra ?",
+     "fr": "Tu pourrais fermer la fenêtre ?"
+    },
+    {
+     "ko": "Dovresti dormire di più.",
+     "roman": "do-VRÉ-sti dor-MI-ré di PIOU",
+     "fr": "Tu devrais dormir plus."
+    },
+    {
+     "ko": "Sarebbe bello!",
+     "roman": "sa-RÈB-bé BÈL-lo !",
+     "fr": "Ce serait beau !"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Pour commander poliment : ___ un cappuccino.",
+     "answer": "Vorrei",
+     "wrong": [
+      "Voglio",
+      "Vorrò"
+     ],
+     "why": "Le conditionnel de volere est la formule polie."
+    },
+    {
+     "question": "Tu ___ studiare di più. (devrais)",
+     "answer": "dovresti",
+     "wrong": [
+      "dovrai",
+      "devi stato"
+     ],
+     "why": "Conseil : conditionnel de dovere."
+    },
+    {
+     "question": "Il conditionnel de « essere » (lui) est…",
+     "answer": "sarebbe",
+     "wrong": [
+      "sarà",
+      "essrebbe"
+     ],
+     "why": "Sarebbe = ce serait."
+    }
+   ]
+  },
+  {
+   "id": "object_pronouns",
+   "title": "Les pronoms compléments",
+   "category": "Pronoms",
+   "level": 3,
+   "summary": "lo, la, gli, le : remplacer les noms.",
+   "sections": [
+    {
+     "title": "Complément direct",
+     "body": "mi, ti, lo (le), la (la), ci, vi, li (les, masc.), le (les, fém.). Avant le verbe : lo conosco, la vedo."
+    },
+    {
+     "title": "Complément indirect",
+     "body": "mi, ti, gli (à lui), le (à elle et à vous, Le), ci, vi, gli (à eux). Gli parlo = je lui parle."
+    },
+    {
+     "title": "La place",
+     "body": "Avant le verbe conjugué, mais accroché à l'infinitif et à l'impératif : voglio vederlo, chiamami! Au passé composé, le participe s'accorde avec lo, la, li, le : l'ho vista (je l'ai vue)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Conosci Paolo? Sì, lo conosco.",
+     "roman": "ko-NO-chi pa-O-lo ? SI lo ko-NO-sko",
+     "fr": "Tu connais Paolo ? Oui, je le connais."
+    },
+    {
+     "ko": "Le telefono domani.",
+     "roman": "lé té-LÉ-fo-no do-MA-ni",
+     "fr": "Je l'appelle demain (elle)."
+    },
+    {
+     "ko": "Gli ho scritto una mail.",
+     "roman": "lyi o SKRIT-to OU-na maïl",
+     "fr": "Je lui ai écrit un e-mail."
+    },
+    {
+     "ko": "Ti aspetto qui.",
+     "roman": "ti a-SPÈT-to koui",
+     "fr": "Je t'attends ici."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Compri il pane? Sì, ___ compro.",
+     "answer": "lo",
+     "wrong": [
+      "la",
+      "gli"
+     ],
+     "why": "Il pane est masculin : lo."
+    },
+    {
+     "question": "Hai visto Giulia? Sì, ___ vista.",
+     "answer": "l'ho",
+     "wrong": [
+      "lo ho",
+      "gli ho"
+     ],
+     "why": "La + ho = l'ho, et le participe s'accorde : vista."
+    },
+    {
+     "question": "Telefoni a Marco? Sì, ___ telefono.",
+     "answer": "gli",
+     "wrong": [
+      "lo",
+      "le"
+     ],
+     "why": "À lui (complément indirect) : gli."
+    }
+   ]
+  },
+  {
+   "id": "ci_ne",
+   "title": "Les pronoms ci et ne",
+   "category": "Pronoms",
+   "level": 3,
+   "summary": "Ci = y, ne = en.",
+   "sections": [
+    {
+     "title": "Ci",
+     "body": "Ci remplace un lieu déjà nommé : vai a Roma? Sì, ci vado domani. On le retrouve dans c'è, ci sono et dans des expressions : ci vuole un'ora (il faut une heure)."
+    },
+    {
+     "title": "Ne",
+     "body": "Ne remplace une quantité ou un complément avec di : quanti caffè vuoi? Ne voglio due. Parliamo dell'esame? Sì, ne parliamo."
+    },
+    {
+     "title": "Ce l'ho",
+     "body": "À l'oral, avec avere + lo / la, on ajoute ci, qui devient ce : hai la chiave? Sì, ce l'ho."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Vieni al cinema? Sì, ci vengo.",
+     "roman": "VIÉ-ni al TCHI-né-ma ? SI tchi VÈNN-go",
+     "fr": "Tu viens au cinéma ? Oui, j'y viens."
+    },
+    {
+     "ko": "Quante mele compri? Ne compro tre.",
+     "roman": "KOUANN-té MÉ-lé KOMM-pri ? né KOMM-pro tré",
+     "fr": "Combien de pommes tu achètes ? J'en achète trois."
+    },
+    {
+     "ko": "Ci vogliono due ore.",
+     "roman": "tchi VO-lyo-no doué O-ré",
+     "fr": "Il faut deux heures."
+    },
+    {
+     "ko": "Hai il biglietto? Sì, ce l'ho.",
+     "roman": "aï il bi-LYÈT-to ? SI tché l'o",
+     "fr": "Tu as le billet ? Oui, je l'ai."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Vai spesso in montagna? Sì, ___ vado ogni inverno.",
+     "answer": "ci",
+     "wrong": [
+      "ne",
+      "lo"
+     ],
+     "why": "Un lieu : ci."
+    },
+    {
+     "question": "Vuoi del pane? Sì, ___ voglio un po'.",
+     "answer": "ne",
+     "wrong": [
+      "ci",
+      "lo"
+     ],
+     "why": "Une quantité : ne."
+    },
+    {
+     "question": "Hai il passaporto? Sì, ___.",
+     "answer": "ce l'ho",
+     "wrong": [
+      "ne ho",
+      "ci ho"
+     ],
+     "why": "Avere + lo : ce l'ho."
+    }
+   ]
+  },
+  {
+   "id": "imperative",
+   "title": "L'impératif",
+   "category": "Verbes essentiels",
+   "level": 3,
+   "summary": "Parla, prendi, senta : donner un ordre ou un conseil.",
+   "sections": [
+    {
+     "title": "Avec tu",
+     "body": "-are : la 3e personne du présent (parla!). -ere et -ire : comme le présent avec tu (prendi! senti!). Irréguliers courts : va', fa', da', sta', di'."
+    },
+    {
+     "title": "Avec Lei (politesse)",
+     "body": "On prend le subjonctif : -are → -i (parli!), -ere / -ire → -a (prenda! senta!). Scusi, mi dica = excusez-moi, je vous écoute."
+    },
+    {
+     "title": "La négation",
+     "body": "Avec tu : non + infinitif (non parlare!). Avec Lei : non + forme normale (non parli!)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Guarda!",
+     "roman": "GOUAR-da !",
+     "fr": "Regarde !"
+    },
+    {
+     "ko": "Senta, scusi…",
+     "roman": "SÈNN-ta SKOU-si",
+     "fr": "Écoutez, excusez-moi…"
+    },
+    {
+     "ko": "Non preoccuparti!",
+     "roman": "nonn pré-ok-kou-PAR-ti !",
+     "fr": "Ne t'inquiète pas !"
+    },
+    {
+     "ko": "Prenda la seconda a destra.",
+     "roman": "PRÈNN-da la sé-KONN-da a DÉ-stra",
+     "fr": "Prenez la deuxième à droite."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "(tu, ascoltare) ___ bene!",
+     "answer": "Ascolta",
+     "wrong": [
+      "Ascolti",
+      "Ascoltare"
+     ],
+     "why": "Tu + verbe en -are : -a."
+    },
+    {
+     "question": "Ne parle pas ! (tu) →",
+     "answer": "Non parlare!",
+     "wrong": [
+      "Non parla!",
+      "Non parli!"
+     ],
+     "why": "Tu + négation : non + infinitif."
+    },
+    {
+     "question": "Pour dire « entrez » à un client (Lei) :",
+     "answer": "Entri!",
+     "wrong": [
+      "Entra!",
+      "Entrate!"
+     ],
+     "why": "Lei : le subjonctif, -i pour les verbes en -are."
+    }
+   ]
+  },
+  {
+   "id": "subjunctive",
+   "title": "Le subjonctif présent",
+   "category": "Modes",
+   "level": 4,
+   "summary": "Penso che sia vero : opinion, souhait, doute.",
+   "sections": [
+    {
+     "title": "La forme",
+     "body": "-are : -i, -i, -i, -iamo, -iate, -ino (che io parli). -ere et -ire : -a, -a, -a, -iamo, -iate, -ano (che io prenda, che io dorma).\nIrréguliers : essere → sia, avere → abbia, andare → vada, fare → faccia, venire → venga, potere → possa."
+    },
+    {
+     "title": "Quand l'utiliser",
+     "body": "Après les verbes d'opinion (penso che, credo che), de volonté (voglio che), de sentiment (sono contento che) et des expressions comme bisogna che, è importante che, prima che, benché.\nL'italien l'emploie plus que le français : penso che sia vero (je pense que c'est vrai)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Credo che abbia ragione.",
+     "roman": "KRÉ-do ké AB-bia ra-DJO-né",
+     "fr": "Je crois qu'il a raison."
+    },
+    {
+     "ko": "Voglio che tu venga.",
+     "roman": "VO-lyo ké tou VÈNN-ga",
+     "fr": "Je veux que tu viennes."
+    },
+    {
+     "ko": "È importante che studiate.",
+     "roman": "É imm-por-TANN-té ké stou-DIA-té",
+     "fr": "C'est important que vous étudiiez."
+    },
+    {
+     "ko": "Spero che faccia bel tempo.",
+     "roman": "SPÉ-ro ké FAT-tcha bèl TÈMM-po",
+     "fr": "J'espère qu'il fera beau."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Penso che Marco ___ a casa. (essere)",
+     "answer": "sia",
+     "wrong": [
+      "è",
+      "essa"
+     ],
+     "why": "Après penso che : subjonctif."
+    },
+    {
+     "question": "Voglio che tu ___ subito. (partire)",
+     "answer": "parta",
+     "wrong": [
+      "parti",
+      "partirai"
+     ],
+     "why": "Partire au subjonctif : parta."
+    },
+    {
+     "question": "Spero che voi ___ bene. (stare)",
+     "answer": "stiate",
+     "wrong": [
+      "state",
+      "stiamo"
+     ],
+     "why": "Stare au subjonctif : stiate."
+    }
+   ]
+  },
+  {
+   "id": "comparisons",
+   "title": "Comparer",
+   "category": "Bases de la phrase",
+   "level": 2,
+   "summary": "più… di, meno… di, come, il più…",
+   "sections": [
+    {
+     "title": "Plus et moins",
+     "body": "più + adjectif + di : Roma è più grande di Firenze. meno + adjectif + di : il treno è meno caro dell'aereo.\nDevant un verbe, un adjectif ou un nom qu'on compare directement, on utilise che : è più facile leggere che scrivere."
+    },
+    {
+     "title": "L'égalité",
+     "body": "così… come ou tanto… quanto : è alto come me."
+    },
+    {
+     "title": "Le superlatif",
+     "body": "il / la più + adjectif : è la città più bella d'Italia. Le superlatif absolu se fait avec -issimo : bellissimo (très beau).\nIrréguliers : buono → migliore (meilleur), cattivo → peggiore (pire)."
+    }
+   ],
+   "examples": [
+    {
+     "ko": "Luca è più alto di Marco.",
+     "roman": "LOU-ka É PIOU AL-to di MAR-ko",
+     "fr": "Luca est plus grand que Marco."
+    },
+    {
+     "ko": "Questo vino è migliore.",
+     "roman": "KOUÉ-sto VI-no É mi-LYO-ré",
+     "fr": "Ce vin est meilleur."
+    },
+    {
+     "ko": "È la pizza più buona della città.",
+     "roman": "É la PIT-tsa PIOU BOUO-na DÈL-la tchit-TA",
+     "fr": "C'est la meilleure pizza de la ville."
+    },
+    {
+     "ko": "Il film era bellissimo.",
+     "roman": "il film É-ra bèl-LIS-si-mo",
+     "fr": "Le film était très beau."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Milano è più grande ___ Bologna.",
+     "answer": "di",
+     "wrong": [
+      "che",
+      "come"
+     ],
+     "why": "Deux noms comparés : di."
+    },
+    {
+     "question": "È più facile parlare ___ scrivere.",
+     "answer": "che",
+     "wrong": [
+      "di",
+      "come"
+     ],
+     "why": "Deux verbes comparés : che."
+    },
+    {
+     "question": "« Très bon » =",
+     "answer": "buonissimo",
+     "wrong": [
+      "molto buonissimo",
+      "più buono"
+     ],
+     "why": "Le superlatif absolu en -issimo."
+    }
+   ]
+  }
+ ]
+}

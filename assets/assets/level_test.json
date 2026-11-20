@@ -1,0 +1,599 @@
+{
+ "sections": [
+  {
+   "id": "vocab",
+   "title": "Vocabulaire",
+   "minutes": 5,
+   "instruction": "Choisis le sens du mot.",
+   "questions": [
+    {
+     "question": "la mela",
+     "answer": "la pomme",
+     "wrong": [
+      "la poire",
+      "l'orange",
+      "la fraise"
+     ],
+     "why": "La mela = la pomme.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "ieri",
+     "answer": "hier",
+     "wrong": [
+      "demain",
+      "aujourd'hui",
+      "ce soir"
+     ],
+     "why": "Ieri = hier, domani = demain, oggi = aujourd'hui.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "la libreria",
+     "answer": "la librairie",
+     "wrong": [
+      "la bibliothèque",
+      "le bureau",
+      "la banque"
+     ],
+     "why": "Faux ami : la bibliothèque se dit « la biblioteca ».",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "caro",
+     "answer": "cher",
+     "wrong": [
+      "bon marché",
+      "grand",
+      "loin"
+     ],
+     "why": "Caro = cher. Son contraire : economico.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "l'appuntamento",
+     "answer": "le rendez-vous",
+     "wrong": [
+      "l'appartement",
+      "le billet",
+      "l'adresse"
+     ],
+     "why": "Prendere un appuntamento = prendre rendez-vous.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "comodo",
+     "answer": "confortable",
+     "wrong": [
+      "fatigué",
+      "pressé",
+      "difficile"
+     ],
+     "why": "Comodo = confortable, pratique.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "il burro",
+     "answer": "le beurre",
+     "wrong": [
+      "l'âne",
+      "le bureau",
+      "le bourreau"
+     ],
+     "why": "Faux ami célèbre : il burro = le beurre.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "lo sviluppo",
+     "answer": "le développement",
+     "wrong": [
+      "la sortie",
+      "l'examen",
+      "l'exemple"
+     ],
+     "why": "Sviluppare = développer.",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "la ditta",
+     "answer": "l'entreprise",
+     "wrong": [
+      "la dette",
+      "la parole",
+      "la date"
+     ],
+     "why": "Faux ami : la dette se dit « il debito ».",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "riuscire",
+     "answer": "parvenir à",
+     "wrong": [
+      "réussir un examen",
+      "louer",
+      "se lever"
+     ],
+     "why": "Riuscire a = arriver à, parvenir à. Réussir un examen = superare un esame.",
+     "level": 3,
+     "passage": null
+    }
+   ]
+  },
+  {
+   "id": "grammar",
+   "title": "Grammaire",
+   "minutes": 8,
+   "instruction": "Choisis la forme qui complète la phrase.",
+   "questions": [
+    {
+     "question": "Mio fratello ___ medico.",
+     "answer": "è",
+     "wrong": [
+      "ha",
+      "c'è",
+      "sta"
+     ],
+     "why": "Le métier : essere.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "Roma ___ in Italia.",
+     "answer": "è",
+     "wrong": [
+      "c'è",
+      "ha",
+      "sono"
+     ],
+     "why": "Situer une ville : essere.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "Mi ___ molto i gatti.",
+     "answer": "piacciono",
+     "wrong": [
+      "piace",
+      "piaccio",
+      "piaci"
+     ],
+     "why": "I gatti (pluriel) : piacciono.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "Io ___ vent'anni.",
+     "answer": "ho",
+     "wrong": [
+      "sono",
+      "sto",
+      "faccio"
+     ],
+     "why": "L'âge avec avere.",
+     "level": 1,
+     "passage": null
+    },
+    {
+     "question": "Ieri ___ al cinema con i miei amici.",
+     "answer": "sono andato",
+     "wrong": [
+      "ho andato",
+      "vado",
+      "andavo"
+     ],
+     "why": "Andare prend essere au passé composé.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "Quando ero piccolo, ___ in un piccolo paese.",
+     "answer": "abitavo",
+     "wrong": [
+      "ho abitato",
+      "abito",
+      "abiterò"
+     ],
+     "why": "Description du passé : imparfait.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "Vai a Roma? Sì, ___ vado domani.",
+     "answer": "ci",
+     "wrong": [
+      "ne",
+      "lo",
+      "la"
+     ],
+     "why": "Un lieu : ci.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "Oggi ___ molto.",
+     "answer": "ho lavorato",
+     "wrong": [
+      "sono lavorato",
+      "lavoravo",
+      "lavorerei"
+     ],
+     "why": "Lavorare prend avere.",
+     "level": 2,
+     "passage": null
+    },
+    {
+     "question": "Spero che tu ___ un buon viaggio.",
+     "answer": "faccia",
+     "wrong": [
+      "fai",
+      "farai",
+      "facevi"
+     ],
+     "why": "Sperare che + subjonctif.",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "Se avessi tempo, ___ di più.",
+     "answer": "viaggerei",
+     "wrong": [
+      "viaggerò",
+      "viaggio",
+      "viaggiassi"
+     ],
+     "why": "Se + subjonctif imparfait, puis conditionnel.",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "Non credo che ___ vero.",
+     "answer": "sia",
+     "wrong": [
+      "è",
+      "sarà",
+      "sta"
+     ],
+     "why": "Non credere che + subjonctif.",
+     "level": 3,
+     "passage": null
+    },
+    {
+     "question": "Le chiavi? ___ ho date a Marco.",
+     "answer": "Gliele",
+     "wrong": [
+      "Gli le",
+      "Le gli",
+      "Glieli"
+     ],
+     "why": "Gli + le devient gliele ; le chiavi est féminin pluriel.",
+     "level": 3,
+     "passage": null
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "title": "Compréhension écrite",
+   "minutes": 8,
+   "instruction": "Lis le texte, puis réponds.",
+   "questions": [
+    {
+     "question": "Dove lavora Pierre?",
+     "answer": "In un albergo.",
+     "wrong": [
+      "In una scuola.",
+      "In un ristorante."
+     ],
+     "why": "« Lavoro in un albergo la mattina ».",
+     "level": 1,
+     "passage": "t1"
+    },
+    {
+     "question": "Che cosa fa Pierre il pomeriggio?",
+     "answer": "Studia italiano.",
+     "wrong": [
+      "Lavora.",
+      "Va in montagna."
+     ],
+     "why": "« Il pomeriggio studio italiano ».",
+     "level": 1,
+     "passage": "t1"
+    },
+    {
+     "question": "Da quando abita a Bologna?",
+     "answer": "Da settembre.",
+     "wrong": [
+      "Da gennaio.",
+      "Da due anni."
+     ],
+     "why": "« Abito a Bologna da settembre ».",
+     "level": 1,
+     "passage": "t1"
+    },
+    {
+     "question": "Si può andare in biblioteca questo sabato?",
+     "answer": "No, è chiusa.",
+     "wrong": [
+      "Sì, la mattina.",
+      "Sì, fino alle due."
+     ],
+     "why": "« Questo sabato la biblioteca resterà chiusa per lavori ».",
+     "level": 2,
+     "passage": "t2"
+    },
+    {
+     "question": "Fino a che ora è aperta domenica?",
+     "answer": "Fino alle quattordici.",
+     "wrong": [
+      "Fino alle dieci.",
+      "Fino alle venti."
+     ],
+     "why": "« Dalle dieci alle quattordici ».",
+     "level": 2,
+     "passage": "t2"
+    },
+    {
+     "question": "Quanti libri si possono prendere?",
+     "answer": "Cinque al massimo.",
+     "wrong": [
+      "Tre.",
+      "Dieci."
+     ],
+     "why": "« Al massimo cinque libri ».",
+     "level": 2,
+     "passage": "t2"
+    },
+    {
+     "question": "Quale NON è un vantaggio del lavoro da casa secondo il testo?",
+     "answer": "Guadagnare di più.",
+     "wrong": [
+      "Risparmiare tempo.",
+      "Conciliare lavoro e famiglia."
+     ],
+     "why": "Le texte parle d'économiser, pas de gagner plus.",
+     "level": 3,
+     "passage": "t3"
+    },
+    {
+     "question": "Di che cosa sentono la mancanza alcuni lavoratori?",
+     "answer": "Dei colleghi.",
+     "wrong": [
+      "Dei trasporti.",
+      "Del vecchio stipendio."
+     ],
+     "why": "« Alcuni sentono la mancanza dei colleghi ».",
+     "level": 3,
+     "passage": "t3"
+    },
+    {
+     "question": "Che cosa stanno facendo molte aziende?",
+     "answer": "Scelgono un modello misto.",
+     "wrong": [
+      "Vietano il lavoro da casa.",
+      "Chiudono gli uffici."
+     ],
+     "why": "« Molte aziende stanno scegliendo un modello misto ».",
+     "level": 3,
+     "passage": "t3"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "Compréhension orale",
+   "minutes": 9,
+   "instruction": "Écoute l'enregistrement (deux écoutes au maximum), puis réponds.",
+   "questions": [
+    {
+     "question": "Dov'è il bagno?",
+     "answer": "In fondo a destra.",
+     "wrong": [
+      "A sinistra.",
+      "All'ingresso."
+     ],
+     "why": "« È in fondo a destra ».",
+     "level": 1,
+     "passage": "a1"
+    },
+    {
+     "question": "Che cosa chiede il cliente?",
+     "answer": "Un altro caffè.",
+     "wrong": [
+      "Il conto.",
+      "Un bicchiere d'acqua."
+     ],
+     "why": "« Mi porta un altro caffè, per favore? ».",
+     "level": 1,
+     "passage": "a1"
+    },
+    {
+     "question": "Che cosa compra la cliente?",
+     "answer": "Le scarpe da ginnastica.",
+     "wrong": [
+      "Le scarpe eleganti.",
+      "Tutte e due."
+     ],
+     "why": "Les chaussures sont trop chères : elle prend les baskets.",
+     "level": 1,
+     "passage": "a2"
+    },
+    {
+     "question": "Quanto paga?",
+     "answer": "25 euro.",
+     "wrong": [
+      "45 euro.",
+      "70 euro."
+     ],
+     "why": "« Le scarpe da ginnastica costano venticinque euro ».",
+     "level": 1,
+     "passage": "a2"
+    },
+    {
+     "question": "A che ora era l'appuntamento all'inizio?",
+     "answer": "Alle sette.",
+     "wrong": [
+      "Alle otto.",
+      "Alle sei."
+     ],
+     "why": "« Ci eravamo dati appuntamento alle sette ».",
+     "level": 2,
+     "passage": "a3"
+    },
+    {
+     "question": "Perché Federica arriva tardi?",
+     "answer": "Esce tardi dal lavoro.",
+     "wrong": [
+      "C'è traffico.",
+      "Si è addormentata."
+     ],
+     "why": "« Esco tardi dal lavoro ».",
+     "level": 2,
+     "passage": "a3"
+    },
+    {
+     "question": "Dove si incontrano?",
+     "answer": "Davanti al cinema.",
+     "wrong": [
+      "Al lavoro.",
+      "In stazione."
+     ],
+     "why": "« Ci vediamo alle otto davanti al cinema ».",
+     "level": 2,
+     "passage": "a3"
+    },
+    {
+     "question": "Che cosa succede al treno?",
+     "answer": "È in ritardo.",
+     "wrong": [
+      "È stato cancellato.",
+      "Ha cambiato binario."
+     ],
+     "why": "« Viaggia con un ritardo di circa quaranta minuti ».",
+     "level": 3,
+     "passage": "a4"
+    },
+    {
+     "question": "Perché?",
+     "answer": "Per un guasto tecnico.",
+     "wrong": [
+      "Per il maltempo.",
+      "Per uno sciopero."
+     ],
+     "why": "« A causa di un guasto tecnico ».",
+     "level": 3,
+     "passage": "a4"
+    }
+   ]
+  }
+ ],
+ "passages": {
+  "t1": {
+   "kind": "text",
+   "level": 1,
+   "text": "Mi chiamo Pierre e sono francese. Abito a Bologna da settembre. Lavoro in un albergo la mattina. Il pomeriggio studio italiano in una scuola di lingue. Il fine settimana vado in montagna con i miei colleghi."
+  },
+  "t2": {
+   "kind": "text",
+   "level": 2,
+   "text": "AVVISO. Biblioteca comunale. Questo sabato la biblioteca resterà chiusa per lavori. Domenica sarà aperta dalle dieci alle quattordici. Ricordiamo che ogni persona può prendere in prestito al massimo cinque libri per tre settimane."
+  },
+  "t3": {
+   "kind": "text",
+   "level": 3,
+   "text": "Sempre più italiani scelgono di lavorare da casa almeno due giorni alla settimana. Secondo un sondaggio recente, la maggior parte dice di risparmiare così tempo e denaro nei trasporti e di riuscire a conciliare meglio lavoro e famiglia. Tuttavia, alcuni sentono la mancanza dei colleghi e ammettono di avere difficoltà a staccare alla fine della giornata. Per questo, molte aziende stanno scegliendo un modello misto."
+  },
+  "a1": {
+   "kind": "audio",
+   "level": 1,
+   "lines": [
+    {
+     "speaker": "Cliente",
+     "ko": "Scusi, dov'è il bagno?"
+    },
+    {
+     "speaker": "Cameriere",
+     "ko": "È in fondo a destra, vicino alla cucina."
+    },
+    {
+     "speaker": "Cliente",
+     "ko": "Grazie. E mi porta un altro caffè, per favore?"
+    },
+    {
+     "speaker": "Cameriere",
+     "ko": "Certo, subito."
+    }
+   ]
+  },
+  "a2": {
+   "kind": "audio",
+   "level": 1,
+   "lines": [
+    {
+     "speaker": "Cliente donna",
+     "ko": "Quanto costano queste scarpe?"
+    },
+    {
+     "speaker": "Commesso",
+     "ko": "Quarantacinque euro."
+    },
+    {
+     "speaker": "Cliente donna",
+     "ko": "Sono un po' care. E queste scarpe da ginnastica?"
+    },
+    {
+     "speaker": "Commesso",
+     "ko": "Le scarpe da ginnastica costano venticinque euro."
+    },
+    {
+     "speaker": "Cliente donna",
+     "ko": "Perfetto, prendo le scarpe da ginnastica."
+    }
+   ]
+  },
+  "a3": {
+   "kind": "audio",
+   "level": 2,
+   "lines": [
+    {
+     "speaker": "Federica",
+     "ko": "Pronto, Davide? Sono Federica. Senti, ci eravamo dati appuntamento alle sette, vero?"
+    },
+    {
+     "speaker": "Davide",
+     "ko": "Sì. Che succede?"
+    },
+    {
+     "speaker": "Federica",
+     "ko": "Esco tardi dal lavoro. Arriverò verso le otto. Ti dispiace?"
+    },
+    {
+     "speaker": "Davide",
+     "ko": "No, tranquilla. Allora ci vediamo alle otto davanti al cinema."
+    },
+    {
+     "speaker": "Federica",
+     "ko": "Perfetto, grazie. A dopo!"
+    }
+   ]
+  },
+  "a4": {
+   "kind": "audio",
+   "level": 3,
+   "lines": [
+    {
+     "speaker": "Annuncio",
+     "ko": "Attenzione. Il treno regionale per Firenze, previsto in partenza alle dieci e un quarto, viaggia con un ritardo di circa quaranta minuti a causa di un guasto tecnico. Ci scusiamo per il disagio."
+    }
+   ]
+  }
+ }
+}

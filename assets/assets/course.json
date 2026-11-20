@@ -1,0 +1,3080 @@
+{
+ "units": [
+  {
+   "id": "u01",
+   "number": 1,
+   "titleKo": "Mi chiamo Claire",
+   "titleFr": "Je m'appelle Claire",
+   "level": 1,
+   "grammar": "essere · chiamarsi · tu / Lei",
+   "situation": "Premier jour dans une école de langues de Sienne : Claire rencontre Paolo et leur professeure.",
+   "lines": [
+    {
+     "speaker": "Professoressa",
+     "ko": "Buongiorno a tutti! Io sono la professoressa Rossi.",
+     "fr": "Bonjour à tous ! Je suis la professeure Rossi."
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Buongiorno, professoressa. Io mi chiamo Claire.",
+     "fr": "Bonjour, madame. Je m'appelle Claire."
+    },
+    {
+     "speaker": "Professoressa",
+     "ko": "Di dove è, Claire?",
+     "fr": "D'où êtes-vous, Claire ?"
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Sono francese, di Lione.",
+     "fr": "Je suis française, de Lyon."
+    },
+    {
+     "speaker": "Paolo",
+     "ko": "Ciao! Io sono Paolo. Sono argentino, di Buenos Aires.",
+     "fr": "Salut ! Moi, c'est Paolo. Je suis argentin, de Buenos Aires."
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Piacere, Paolo. Sei studente?",
+     "fr": "Enchantée, Paolo. Tu es étudiant ?"
+    },
+    {
+     "speaker": "Paolo",
+     "ko": "No, sono cuoco. E tu?",
+     "fr": "Non, je suis cuisinier. Et toi ?"
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Io sono infermiera.",
+     "fr": "Moi, je suis infirmière."
+    },
+    {
+     "speaker": "Professoressa",
+     "ko": "Molto bene. Benvenuti a Siena!",
+     "fr": "Très bien. Bienvenue à Sienne !"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Di dove è Claire?",
+     "answer": "Della Francia.",
+     "wrong": [
+      "Dell'Argentina.",
+      "Dell'Italia."
+     ],
+     "why": "Claire dit « Sono francese, di Lione »."
+    },
+    {
+     "question": "Chi è la signora Rossi?",
+     "answer": "La professoressa.",
+     "wrong": [
+      "Una studentessa.",
+      "Una cuoca."
+     ],
+     "why": "« Io sono la professoressa Rossi »."
+    },
+    {
+     "question": "Che lavoro fa Paolo?",
+     "answer": "È cuoco.",
+     "wrong": [
+      "È studente.",
+      "È infermiere."
+     ],
+     "why": "Paolo dit « No, sono cuoco »."
+    },
+    {
+     "question": "In quale città sono?",
+     "answer": "A Siena.",
+     "wrong": [
+      "A Lione.",
+      "A Buenos Aires."
+     ],
+     "why": "« Benvenuti a Siena! »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Essere",
+     "body": "Pour l'identité, l'origine et le métier : sono, sei, è, siamo, siete, sono. Pas d'article devant le métier : sono infermiera."
+    },
+    {
+     "title": "Chiamarsi",
+     "body": "Mi chiamo, ti chiami, si chiama. Come ti chiami? = Comment t'appelles-tu ?"
+    },
+    {
+     "title": "Tu ou Lei",
+     "body": "Tu entre amis et jeunes. Lei (verbe à la 3e personne) avec un inconnu ou un professeur : di dove è?"
+    }
+   ],
+   "drills": [
+    {
+     "question": "Io ___ Claire.",
+     "answer": "mi chiamo",
+     "wrong": [
+      "ti chiami",
+      "si chiama"
+     ],
+     "why": "Io : mi chiamo.",
+     "translation": "Je m'appelle Claire."
+    },
+    {
+     "question": "Tu ___ francese?",
+     "answer": "sei",
+     "wrong": [
+      "è",
+      "sono"
+     ],
+     "why": "Essere avec tu : sei.",
+     "translation": "Tu es français ?"
+    },
+    {
+     "question": "Paolo ___ cuoco.",
+     "answer": "è",
+     "wrong": [
+      "e",
+      "ha"
+     ],
+     "why": "È avec accent = est ; e sans accent = et.",
+     "translation": "Paolo est cuisinier."
+    },
+    {
+     "question": "Noi ___ studenti.",
+     "answer": "siamo",
+     "wrong": [
+      "sono",
+      "siete"
+     ],
+     "why": "Essere avec noi : siamo.",
+     "translation": "Nous sommes étudiants."
+    },
+    {
+     "question": "Signora, come si ___?",
+     "answer": "chiama",
+     "wrong": [
+      "chiami",
+      "chiamo"
+     ],
+     "why": "Avec Lei, le verbe est à la 3e personne.",
+     "translation": "Madame, comment vous appelez-vous ?"
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u01_v01",
+     "hangul": "ciao",
+     "romanization": "TCHA-o",
+     "french": "salut",
+     "level": 1
+    },
+    {
+     "id": "u01_v02",
+     "hangul": "buongiorno",
+     "romanization": "bouonn-DJOR-no",
+     "french": "bonjour",
+     "level": 1
+    },
+    {
+     "id": "u01_v03",
+     "hangul": "io sono",
+     "romanization": "io SO-no",
+     "french": "je suis",
+     "level": 1
+    },
+    {
+     "id": "u01_v04",
+     "hangul": "mi chiamo",
+     "romanization": "mi KIA-mo",
+     "french": "je m'appelle",
+     "level": 1
+    },
+    {
+     "id": "u01_v05",
+     "hangul": "di dove sei?",
+     "romanization": "di DO-vé séï ?",
+     "french": "d'où viens-tu ?",
+     "level": 1
+    },
+    {
+     "id": "u01_v06",
+     "hangul": "francese",
+     "romanization": "frann-TCHÉ-sé",
+     "french": "français",
+     "level": 1
+    },
+    {
+     "id": "u01_v07",
+     "hangul": "lo studente",
+     "romanization": "lo stou-DÈNN-té",
+     "french": "l'étudiant",
+     "level": 1
+    },
+    {
+     "id": "u01_v08",
+     "hangul": "la professoressa",
+     "romanization": "la pro-fès-so-RÈS-sa",
+     "french": "la professeure",
+     "level": 1
+    },
+    {
+     "id": "u01_v09",
+     "hangul": "il cuoco",
+     "romanization": "il KOUO-ko",
+     "french": "le cuisinier",
+     "level": 1
+    },
+    {
+     "id": "u01_v10",
+     "hangul": "l'infermiera",
+     "romanization": "l'inn-fèr-MIÉ-ra",
+     "french": "l'infirmière",
+     "level": 1
+    },
+    {
+     "id": "u01_v11",
+     "hangul": "piacere",
+     "romanization": "pia-TCHÉ-ré",
+     "french": "enchanté(e)",
+     "level": 1
+    },
+    {
+     "id": "u01_v12",
+     "hangul": "benvenuti",
+     "romanization": "bènn-vé-NOU-ti",
+     "french": "bienvenue (à tous)",
+     "level": 1
+    },
+    {
+     "id": "u01_v13",
+     "hangul": "la scuola di lingue",
+     "romanization": "la SKOUO-la di LINN-goué",
+     "french": "l'école de langues",
+     "level": 1
+    },
+    {
+     "id": "u01_v14",
+     "hangul": "molto bene",
+     "romanization": "MOL-to BÉ-né",
+     "french": "très bien",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "id": "u02",
+   "number": 2,
+   "titleKo": "La mia famiglia",
+   "titleFr": "Ma famille",
+   "level": 1,
+   "grammar": "avere · possessifs · nombres",
+   "situation": "Claire montre une photo de sa famille à son amie Giulia.",
+   "lines": [
+    {
+     "speaker": "Giulia",
+     "ko": "Che bella foto! Chi sono?",
+     "fr": "Quelle belle photo ! Qui c'est ?"
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Sono i miei genitori. Mio padre si chiama Michel e mia madre Anne.",
+     "fr": "Ce sont mes parents. Mon père s'appelle Michel et ma mère Anne."
+    },
+    {
+     "speaker": "Giulia",
+     "ko": "Hai fratelli?",
+     "fr": "Tu as des frères et sœurs ?"
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Sì, ho un fratello e una sorella. Mio fratello ha venti anni.",
+     "fr": "Oui, j'ai un frère et une sœur. Mon frère a vingt ans."
+    },
+    {
+     "speaker": "Giulia",
+     "ko": "E tua sorella?",
+     "fr": "Et ta sœur ?"
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Mia sorella è più grande. Ha trentadue anni ed è sposata.",
+     "fr": "Ma sœur est plus âgée. Elle a trente-deux ans et elle est mariée."
+    },
+    {
+     "speaker": "Giulia",
+     "ko": "Ha figli?",
+     "fr": "Elle a des enfants ?"
+    },
+    {
+     "speaker": "Claire",
+     "ko": "Sì, ha una bambina di tre anni. Si chiama Lou.",
+     "fr": "Oui, elle a une petite fille de trois ans. Elle s'appelle Lou."
+    },
+    {
+     "speaker": "Giulia",
+     "ko": "Che carina! Io sono figlia unica.",
+     "fr": "Comme elle est mignonne ! Moi, je suis fille unique."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Come si chiama il padre di Claire?",
+     "answer": "Michel.",
+     "wrong": [
+      "Anne.",
+      "Lou."
+     ],
+     "why": "« Mio padre si chiama Michel »."
+    },
+    {
+     "question": "Quanti anni ha il fratello di Claire?",
+     "answer": "Venti anni.",
+     "wrong": [
+      "Trentadue anni.",
+      "Tre anni."
+     ],
+     "why": "« Mio fratello ha venti anni »."
+    },
+    {
+     "question": "Chi è Lou?",
+     "answer": "La nipote di Claire.",
+     "wrong": [
+      "La sorella di Claire.",
+      "La figlia di Giulia."
+     ],
+     "why": "C'est la fille de la sœur de Claire, donc sa nièce."
+    },
+    {
+     "question": "Giulia ha fratelli?",
+     "answer": "No, è figlia unica.",
+     "wrong": [
+      "Sì, un fratello.",
+      "Sì, due sorelle."
+     ],
+     "why": "« Io sono figlia unica »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Avere",
+     "body": "Ho, hai, ha, abbiamo, avete, hanno. L'âge se dit avec avere : ho venti anni."
+    },
+    {
+     "title": "Possessifs et famille",
+     "body": "Mio padre, mia madre, tuo fratello : pas d'article avec un membre de la famille au singulier. Au pluriel, l'article revient : i miei genitori."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Io ___ due fratelli.",
+     "answer": "ho",
+     "wrong": [
+      "hai",
+      "ha"
+     ],
+     "why": "Avere avec io : ho.",
+     "translation": "J'ai deux frères."
+    },
+    {
+     "question": "___ madre è italiana.",
+     "answer": "Mia",
+     "wrong": [
+      "La mia",
+      "Mio"
+     ],
+     "why": "Famille au singulier : pas d'article.",
+     "translation": "Ma mère est italienne."
+    },
+    {
+     "question": "Quanti anni ___ tuo padre?",
+     "answer": "ha",
+     "wrong": [
+      "è",
+      "hai"
+     ],
+     "why": "L'âge : avere, 3e personne.",
+     "translation": "Quel âge a ton père ?"
+    },
+    {
+     "question": "Sono ___ miei cugini.",
+     "answer": "i",
+     "wrong": [
+      "gli",
+      "le"
+     ],
+     "why": "Au pluriel, l'article revient : i miei.",
+     "translation": "Ce sont mes cousins."
+    },
+    {
+     "question": "Mia sorella ha trenta___ anni.",
+     "answer": "due",
+     "wrong": [
+      "dua",
+      "duo"
+     ],
+     "why": "Trentadue = trente-deux.",
+     "translation": "Ma sœur a trente-deux ans."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u02_v01",
+     "hangul": "la famiglia",
+     "romanization": "la fa-MI-lya",
+     "french": "la famille",
+     "level": 1
+    },
+    {
+     "id": "u02_v02",
+     "hangul": "i genitori",
+     "romanization": "i djé-ni-TO-ri",
+     "french": "les parents",
+     "level": 1
+    },
+    {
+     "id": "u02_v03",
+     "hangul": "il padre",
+     "romanization": "il PA-dré",
+     "french": "le père",
+     "level": 1
+    },
+    {
+     "id": "u02_v04",
+     "hangul": "la madre",
+     "romanization": "la MA-dré",
+     "french": "la mère",
+     "level": 1
+    },
+    {
+     "id": "u02_v05",
+     "hangul": "il fratello",
+     "romanization": "il fra-TÈL-lo",
+     "french": "le frère",
+     "level": 1
+    },
+    {
+     "id": "u02_v06",
+     "hangul": "la sorella",
+     "romanization": "la so-RÈL-la",
+     "french": "la sœur",
+     "level": 1
+    },
+    {
+     "id": "u02_v07",
+     "hangul": "il figlio",
+     "romanization": "il FI-lyo",
+     "french": "le fils",
+     "level": 1
+    },
+    {
+     "id": "u02_v08",
+     "hangul": "la figlia",
+     "romanization": "la FI-lya",
+     "french": "la fille",
+     "level": 1
+    },
+    {
+     "id": "u02_v09",
+     "hangul": "figlia unica",
+     "romanization": "FI-lya OU-ni-ka",
+     "french": "fille unique",
+     "level": 1
+    },
+    {
+     "id": "u02_v10",
+     "hangul": "sposato",
+     "romanization": "spo-SA-to",
+     "french": "marié",
+     "level": 1
+    },
+    {
+     "id": "u02_v11",
+     "hangul": "la nipote",
+     "romanization": "la ni-PO-té",
+     "french": "la nièce",
+     "level": 1
+    },
+    {
+     "id": "u02_v12",
+     "hangul": "carino",
+     "romanization": "ka-RI-no",
+     "french": "mignon",
+     "level": 1
+    },
+    {
+     "id": "u02_v13",
+     "hangul": "la foto",
+     "romanization": "la FO-to",
+     "french": "la photo",
+     "level": 1
+    },
+    {
+     "id": "u02_v14",
+     "hangul": "più grande",
+     "romanization": "PIOU GRANN-dé",
+     "french": "plus âgé, plus grand",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "id": "u03",
+   "number": 3,
+   "titleKo": "Dov'è la stazione?",
+   "titleFr": "Où est la gare ?",
+   "level": 1,
+   "grammar": "c'è / ci sono · essere · prépositions de lieu",
+   "situation": "Diego cherche la gare dans une ville qu'il ne connaît pas.",
+   "lines": [
+    {
+     "speaker": "Diego",
+     "ko": "Scusi, signora, dov'è la stazione?",
+     "fr": "Excusez-moi, madame, où est la gare ?"
+    },
+    {
+     "speaker": "Signora",
+     "ko": "La stazione? È vicino alla piazza principale.",
+     "fr": "La gare ? Elle est près de la place principale."
+    },
+    {
+     "speaker": "Diego",
+     "ko": "È lontano da qui?",
+     "fr": "C'est loin d'ici ?"
+    },
+    {
+     "speaker": "Signora",
+     "ko": "No, sono dieci minuti a piedi. Vada dritto e poi giri a sinistra.",
+     "fr": "Non, c'est à dix minutes à pied. Allez tout droit puis tournez à gauche."
+    },
+    {
+     "speaker": "Diego",
+     "ko": "C'è una farmacia qui vicino?",
+     "fr": "Il y a une pharmacie près d'ici ?"
+    },
+    {
+     "speaker": "Signora",
+     "ko": "Sì, c'è una farmacia davanti alla banca, accanto al bar.",
+     "fr": "Oui, il y a une pharmacie devant la banque, à côté du café."
+    },
+    {
+     "speaker": "Diego",
+     "ko": "E ci sono dei bancomat?",
+     "fr": "Et il y a des distributeurs ?"
+    },
+    {
+     "speaker": "Signora",
+     "ko": "Sì, ci sono due bancomat nella piazza.",
+     "fr": "Oui, il y a deux distributeurs sur la place."
+    },
+    {
+     "speaker": "Diego",
+     "ko": "Grazie mille, signora.",
+     "fr": "Merci beaucoup, madame."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Dov'è la stazione?",
+     "answer": "Vicino alla piazza.",
+     "wrong": [
+      "Davanti alla banca.",
+      "Accanto al bar."
+     ],
+     "why": "« È vicino alla piazza principale »."
+    },
+    {
+     "question": "Quanto tempo ci vuole a piedi?",
+     "answer": "Dieci minuti.",
+     "wrong": [
+      "Due minuti.",
+      "Mezz'ora."
+     ],
+     "why": "« Sono dieci minuti a piedi »."
+    },
+    {
+     "question": "Dov'è la farmacia?",
+     "answer": "Davanti alla banca.",
+     "wrong": [
+      "Nella piazza.",
+      "Dietro la stazione."
+     ],
+     "why": "« C'è una farmacia davanti alla banca »."
+    },
+    {
+     "question": "Quanti bancomat ci sono nella piazza?",
+     "answer": "Due.",
+     "wrong": [
+      "Uno.",
+      "Tre."
+     ],
+     "why": "« Ci sono due bancomat nella piazza »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "C'è / ci sono",
+     "body": "Pour dire qu'une chose existe : c'è + singulier, ci sono + pluriel. C'è un bar? Ci sono due farmacie."
+    },
+    {
+     "title": "Essere pour situer",
+     "body": "Pour une chose connue, on utilise essere : dov'è la stazione? La stazione è in centro."
+    },
+    {
+     "title": "Les prépositions de lieu",
+     "body": "vicino a (près de), lontano da (loin de), davanti a (devant), dietro (derrière), accanto a (à côté de), di fronte a (en face de). A + la = alla, a + il = al."
+    }
+   ],
+   "drills": [
+    {
+     "question": "___ un supermercato qui vicino?",
+     "answer": "C'è",
+     "wrong": [
+      "Ci sono",
+      "È"
+     ],
+     "why": "Singulier : c'è.",
+     "translation": "Il y a un supermarché près d'ici ?"
+    },
+    {
+     "question": "Dove ___ i bagni?",
+     "answer": "sono",
+     "wrong": [
+      "ci sono",
+      "c'è"
+     ],
+     "why": "Une chose précise qu'on situe : essere.",
+     "translation": "Où sont les toilettes ?"
+    },
+    {
+     "question": "La banca è vicino ___ stazione.",
+     "answer": "alla",
+     "wrong": [
+      "al",
+      "a la"
+     ],
+     "why": "A + la = alla.",
+     "translation": "La banque est près de la gare."
+    },
+    {
+     "question": "Nel parco ___ molti bambini.",
+     "answer": "ci sono",
+     "wrong": [
+      "c'è",
+      "è"
+     ],
+     "why": "Pluriel : ci sono.",
+     "translation": "Il y a beaucoup d'enfants dans le parc."
+    },
+    {
+     "question": "Il bar è accanto ___ museo.",
+     "answer": "al",
+     "wrong": [
+      "alla",
+      "a il"
+     ],
+     "why": "A + il = al.",
+     "translation": "Le café est à côté du musée."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u03_v01",
+     "hangul": "la stazione",
+     "romanization": "la sta-TSIO-né",
+     "french": "la gare",
+     "level": 1
+    },
+    {
+     "id": "u03_v02",
+     "hangul": "la piazza",
+     "romanization": "la PIAT-tsa",
+     "french": "la place",
+     "level": 1
+    },
+    {
+     "id": "u03_v03",
+     "hangul": "vicino a",
+     "romanization": "vi-TCHI-no a",
+     "french": "près de",
+     "level": 1
+    },
+    {
+     "id": "u03_v04",
+     "hangul": "lontano da",
+     "romanization": "lonn-TA-no da",
+     "french": "loin de",
+     "level": 1
+    },
+    {
+     "id": "u03_v05",
+     "hangul": "davanti a",
+     "romanization": "da-VANN-ti a",
+     "french": "devant",
+     "level": 1
+    },
+    {
+     "id": "u03_v06",
+     "hangul": "dietro",
+     "romanization": "DIÉ-tro",
+     "french": "derrière",
+     "level": 1
+    },
+    {
+     "id": "u03_v07",
+     "hangul": "accanto a",
+     "romanization": "ak-KANN-to a",
+     "french": "à côté de",
+     "level": 1
+    },
+    {
+     "id": "u03_v08",
+     "hangul": "a piedi",
+     "romanization": "a PIÉ-di",
+     "french": "à pied",
+     "level": 1
+    },
+    {
+     "id": "u03_v09",
+     "hangul": "dritto",
+     "romanization": "DRIT-to",
+     "french": "tout droit",
+     "level": 1
+    },
+    {
+     "id": "u03_v10",
+     "hangul": "girare",
+     "romanization": "dji-RA-ré",
+     "french": "tourner",
+     "level": 1
+    },
+    {
+     "id": "u03_v11",
+     "hangul": "la farmacia",
+     "romanization": "la far-ma-TCHI-a",
+     "french": "la pharmacie",
+     "level": 1
+    },
+    {
+     "id": "u03_v12",
+     "hangul": "la banca",
+     "romanization": "la BANN-ka",
+     "french": "la banque",
+     "level": 1
+    },
+    {
+     "id": "u03_v13",
+     "hangul": "il bancomat",
+     "romanization": "il bann-KO-mat",
+     "french": "le distributeur de billets",
+     "level": 1
+    },
+    {
+     "id": "u03_v14",
+     "hangul": "qui vicino",
+     "romanization": "koui vi-TCHI-no",
+     "french": "près d'ici",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "id": "u04",
+   "number": 4,
+   "titleKo": "Una giornata normale",
+   "titleFr": "Une journée ordinaire",
+   "level": 1,
+   "grammar": "présent régulier · verbes pronominaux · l'heure",
+   "situation": "Elena raconte sa journée à Thomas, un collègue arrivé de Belgique.",
+   "lines": [
+    {
+     "speaker": "Thomas",
+     "ko": "Elena, a che ora ti alzi la mattina?",
+     "fr": "Elena, à quelle heure tu te lèves le matin ?"
+    },
+    {
+     "speaker": "Elena",
+     "ko": "Mi alzo alle sei e mezza. Faccio la doccia e prendo un caffè.",
+     "fr": "Je me lève à six heures et demie. Je prends une douche et un café."
+    },
+    {
+     "speaker": "Thomas",
+     "ko": "Così presto! E come vai in ufficio?",
+     "fr": "Si tôt ! Et comment tu vas au bureau ?"
+    },
+    {
+     "speaker": "Elena",
+     "ko": "Prendo l'autobus alle sette e un quarto.",
+     "fr": "Je prends le bus à sept heures et quart."
+    },
+    {
+     "speaker": "Thomas",
+     "ko": "A che ora cominci a lavorare?",
+     "fr": "À quelle heure tu commences à travailler ?"
+    },
+    {
+     "speaker": "Elena",
+     "ko": "Alle otto. Pranzo all'una con i colleghi.",
+     "fr": "À huit heures. Je déjeune à une heure avec les collègues."
+    },
+    {
+     "speaker": "Thomas",
+     "ko": "E la sera?",
+     "fr": "Et le soir ?"
+    },
+    {
+     "speaker": "Elena",
+     "ko": "Torno a casa alle sei, cucino e leggo un po'. Vado a letto alle undici.",
+     "fr": "Je rentre à six heures, je cuisine et je lis un peu. Je me couche à onze heures."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "A che ora si alza Elena?",
+     "answer": "Alle sei e mezza.",
+     "wrong": [
+      "Alle sette.",
+      "Alle otto."
+     ],
+     "why": "« Mi alzo alle sei e mezza »."
+    },
+    {
+     "question": "Come va in ufficio Elena?",
+     "answer": "In autobus.",
+     "wrong": [
+      "In macchina.",
+      "A piedi."
+     ],
+     "why": "« Prendo l'autobus »."
+    },
+    {
+     "question": "Con chi pranza?",
+     "answer": "Con i colleghi.",
+     "wrong": [
+      "Da sola.",
+      "Con Thomas."
+     ],
+     "why": "« Pranzo all'una con i colleghi »."
+    },
+    {
+     "question": "Che cosa fa la sera?",
+     "answer": "Cucina e legge.",
+     "wrong": [
+      "Va in palestra.",
+      "Guarda un film."
+     ],
+     "why": "« Cucino e leggo un po' »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Le présent",
+     "body": "-are : parlo, parli, parla, parliamo, parlate, parlano. -ere : leggo, leggi, legge… -ire : dormo, dormi, dorme…"
+    },
+    {
+     "title": "Les pronominaux",
+     "body": "Mi alzo, ti alzi, si alza, ci alziamo, vi alzate, si alzano. Le pronom se place avant le verbe."
+    },
+    {
+     "title": "L'heure",
+     "body": "Che ore sono? Sono le otto (mais : è l'una, è mezzogiorno). E un quarto = et quart, e mezza = et demie, meno un quarto = moins le quart. À huit heures = alle otto."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Io ___ alle sette. (alzarsi)",
+     "answer": "mi alzo",
+     "wrong": [
+      "si alza",
+      "mi alza"
+     ],
+     "why": "Io : mi + -o.",
+     "translation": "Je me lève à sept heures."
+    },
+    {
+     "question": "Tu ___ il treno ogni giorno? (prendere)",
+     "answer": "prendi",
+     "wrong": [
+      "prende",
+      "prendo"
+     ],
+     "why": "Tu : -i.",
+     "translation": "Tu prends le train tous les jours ?"
+    },
+    {
+     "question": "Lei ___ in un ufficio. (lavorare)",
+     "answer": "lavora",
+     "wrong": [
+      "lavori",
+      "lavoro"
+     ],
+     "why": "Lei : -a pour les verbes en -are.",
+     "translation": "Elle travaille dans un bureau."
+    },
+    {
+     "question": "Il film comincia ___ nove.",
+     "answer": "alle",
+     "wrong": [
+      "a",
+      "alla"
+     ],
+     "why": "À + heure : alle (a + le).",
+     "translation": "Le film commence à neuf heures."
+    },
+    {
+     "question": "È ___ una. (il est une heure)",
+     "answer": "l'",
+     "wrong": [
+      "le",
+      "la"
+     ],
+     "why": "Una est singulier : è l'una.",
+     "translation": "Il est une heure."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u04_v01",
+     "hangul": "alzarsi",
+     "romanization": "al-TSAR-si",
+     "french": "se lever",
+     "level": 1
+    },
+    {
+     "id": "u04_v02",
+     "hangul": "la mattina",
+     "romanization": "la mat-TI-na",
+     "french": "le matin",
+     "level": 1
+    },
+    {
+     "id": "u04_v03",
+     "hangul": "fare la doccia",
+     "romanization": "FA-ré la DOT-tcha",
+     "french": "prendre une douche",
+     "level": 1
+    },
+    {
+     "id": "u04_v04",
+     "hangul": "l'ufficio",
+     "romanization": "l'ouf-FI-tcho",
+     "french": "le bureau",
+     "level": 1
+    },
+    {
+     "id": "u04_v05",
+     "hangul": "l'autobus",
+     "romanization": "l'aou-TO-bous",
+     "french": "le bus",
+     "level": 1
+    },
+    {
+     "id": "u04_v06",
+     "hangul": "cominciare",
+     "romanization": "ko-minn-TCHA-ré",
+     "french": "commencer",
+     "level": 1
+    },
+    {
+     "id": "u04_v07",
+     "hangul": "pranzare",
+     "romanization": "prann-TSA-ré",
+     "french": "déjeuner",
+     "level": 1
+    },
+    {
+     "id": "u04_v08",
+     "hangul": "il collega",
+     "romanization": "il kol-LÉ-ga",
+     "french": "le collègue",
+     "level": 1
+    },
+    {
+     "id": "u04_v09",
+     "hangul": "la sera",
+     "romanization": "la SÉ-ra",
+     "french": "le soir",
+     "level": 1
+    },
+    {
+     "id": "u04_v10",
+     "hangul": "tornare a casa",
+     "romanization": "tor-NA-ré a KA-sa",
+     "french": "rentrer à la maison",
+     "level": 1
+    },
+    {
+     "id": "u04_v11",
+     "hangul": "cucinare",
+     "romanization": "kou-tchi-NA-ré",
+     "french": "cuisiner",
+     "level": 1
+    },
+    {
+     "id": "u04_v12",
+     "hangul": "andare a letto",
+     "romanization": "ann-DA-ré a LÈT-to",
+     "french": "aller se coucher",
+     "level": 1
+    },
+    {
+     "id": "u04_v13",
+     "hangul": "e mezza",
+     "romanization": "é MÈT-tsa",
+     "french": "et demie",
+     "level": 1
+    },
+    {
+     "id": "u04_v14",
+     "hangul": "e un quarto",
+     "romanization": "é ounn KOUAR-to",
+     "french": "et quart",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "id": "u05",
+   "number": 5,
+   "titleKo": "Al mercato",
+   "titleFr": "Au marché",
+   "level": 1,
+   "grammar": "quantités · quanto? · nombres jusqu'à 100",
+   "situation": "Andrea fait les courses au marché de Campo de' Fiori, à Rome.",
+   "lines": [
+    {
+     "speaker": "Fruttivendolo",
+     "ko": "Buongiorno! Cosa desidera?",
+     "fr": "Bonjour ! Que désirez-vous ?"
+    },
+    {
+     "speaker": "Andrea",
+     "ko": "Buongiorno. Vorrei un chilo di pomodori.",
+     "fr": "Bonjour. Je voudrais un kilo de tomates."
+    },
+    {
+     "speaker": "Fruttivendolo",
+     "ko": "Ecco. Altro?",
+     "fr": "Voilà. Autre chose ?"
+    },
+    {
+     "speaker": "Andrea",
+     "ko": "Sì, mezzo chilo di fragole. Quanto costano?",
+     "fr": "Oui, un demi-kilo de fraises. Combien coûtent-elles ?"
+    },
+    {
+     "speaker": "Fruttivendolo",
+     "ko": "Le fragole costano sei euro al chilo.",
+     "fr": "Les fraises coûtent six euros le kilo."
+    },
+    {
+     "speaker": "Andrea",
+     "ko": "Va bene. E anche quattro limoni, per favore.",
+     "fr": "D'accord. Et aussi quatre citrons, s'il vous plaît."
+    },
+    {
+     "speaker": "Fruttivendolo",
+     "ko": "Quattro limoni. Nient'altro?",
+     "fr": "Quatre citrons. Rien d'autre ?"
+    },
+    {
+     "speaker": "Andrea",
+     "ko": "No, è tutto. Quant'è?",
+     "fr": "Non, c'est tout. Ça fait combien ?"
+    },
+    {
+     "speaker": "Fruttivendolo",
+     "ko": "In tutto sono otto euro e cinquanta.",
+     "fr": "En tout, ça fait huit euros cinquante."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Quanti pomodori compra Andrea?",
+     "answer": "Un chilo.",
+     "wrong": [
+      "Mezzo chilo.",
+      "Due chili."
+     ],
+     "why": "« Vorrei un chilo di pomodori »."
+    },
+    {
+     "question": "Quanto costano le fragole al chilo?",
+     "answer": "Sei euro.",
+     "wrong": [
+      "Otto euro.",
+      "Cinque euro."
+     ],
+     "why": "« Costano sei euro al chilo »."
+    },
+    {
+     "question": "Quanti limoni compra?",
+     "answer": "Quattro.",
+     "wrong": [
+      "Tre.",
+      "Sei."
+     ],
+     "why": "« Anche quattro limoni »."
+    },
+    {
+     "question": "Quanto paga in tutto?",
+     "answer": "8,50 euro.",
+     "wrong": [
+      "6 euro.",
+      "5,80 euro."
+     ],
+     "why": "« In tutto sono otto euro e cinquanta »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Les quantités",
+     "body": "un chilo di (un kilo de), mezzo chilo di (un demi-kilo), un etto di (100 grammes), una bottiglia di, un pacco di. Après une quantité : di + nom, sans article."
+    },
+    {
+     "title": "Quanto costa / costano",
+     "body": "Quanto costa? pour une chose, quanto costano? pour plusieurs. Quant'è? = ça fait combien en tout ?"
+    },
+    {
+     "title": "Vorrei",
+     "body": "Vorrei (je voudrais) est la façon polie de demander quelque chose dans un magasin."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Vorrei un chilo ___ mele.",
+     "answer": "di",
+     "wrong": [
+      "de",
+      "delle"
+     ],
+     "why": "Après une quantité : di.",
+     "translation": "Je voudrais un kilo de pommes."
+    },
+    {
+     "question": "Quanto ___ queste arance?",
+     "answer": "costano",
+     "wrong": [
+      "costa",
+      "costo"
+     ],
+     "why": "Pluriel : costano.",
+     "translation": "Combien coûtent ces oranges ?"
+    },
+    {
+     "question": "___ un caffè, per favore.",
+     "answer": "Vorrei",
+     "wrong": [
+      "Voglio io",
+      "Vorrò"
+     ],
+     "why": "Vorrei = la formule polie.",
+     "translation": "Je voudrais un café, s'il vous plaît."
+    },
+    {
+     "question": "Cinquanta più trenta fa ___.",
+     "answer": "ottanta",
+     "wrong": [
+      "settanta",
+      "novanta"
+     ],
+     "why": "50 + 30 = 80 : ottanta.",
+     "translation": "Cinquante plus trente font quatre-vingts."
+    },
+    {
+     "question": "Il pane costa due euro ___ chilo.",
+     "answer": "al",
+     "wrong": [
+      "il",
+      "del"
+     ],
+     "why": "Le prix au kilo : al chilo.",
+     "translation": "Le pain coûte deux euros le kilo."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u05_v01",
+     "hangul": "il mercato",
+     "romanization": "il mèr-KA-to",
+     "french": "le marché",
+     "level": 1
+    },
+    {
+     "id": "u05_v02",
+     "hangul": "il fruttivendolo",
+     "romanization": "il frout-ti-vènn-DO-lo",
+     "french": "le marchand de fruits et légumes",
+     "level": 1
+    },
+    {
+     "id": "u05_v03",
+     "hangul": "cosa desidera?",
+     "romanization": "KO-sa dé-si-DÉ-ra ?",
+     "french": "que désirez-vous ?",
+     "level": 1
+    },
+    {
+     "id": "u05_v04",
+     "hangul": "vorrei",
+     "romanization": "VOR-réï",
+     "french": "je voudrais",
+     "level": 1
+    },
+    {
+     "id": "u05_v05",
+     "hangul": "un chilo",
+     "romanization": "ounn KI-lo",
+     "french": "un kilo",
+     "level": 1
+    },
+    {
+     "id": "u05_v06",
+     "hangul": "mezzo chilo",
+     "romanization": "MÈT-tso KI-lo",
+     "french": "un demi-kilo",
+     "level": 1
+    },
+    {
+     "id": "u05_v07",
+     "hangul": "un etto",
+     "romanization": "ounn ÈT-to",
+     "french": "cent grammes",
+     "level": 1
+    },
+    {
+     "id": "u05_v08",
+     "hangul": "i pomodori",
+     "romanization": "i po-mo-DO-ri",
+     "french": "les tomates",
+     "level": 1
+    },
+    {
+     "id": "u05_v09",
+     "hangul": "le fragole",
+     "romanization": "lé fra-GO-lé",
+     "french": "les fraises",
+     "level": 1
+    },
+    {
+     "id": "u05_v10",
+     "hangul": "i limoni",
+     "romanization": "i li-MO-ni",
+     "french": "les citrons",
+     "level": 1
+    },
+    {
+     "id": "u05_v11",
+     "hangul": "quanto costa?",
+     "romanization": "KOUANN-to KO-sta ?",
+     "french": "combien ça coûte ?",
+     "level": 1
+    },
+    {
+     "id": "u05_v12",
+     "hangul": "quant'è?",
+     "romanization": "kouant'É ?",
+     "french": "ça fait combien ?",
+     "level": 1
+    },
+    {
+     "id": "u05_v13",
+     "hangul": "in tutto",
+     "romanization": "inn TOUT-to",
+     "french": "en tout",
+     "level": 1
+    },
+    {
+     "id": "u05_v14",
+     "hangul": "nient'altro",
+     "romanization": "niènt'AL-tro",
+     "french": "rien d'autre",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "id": "u06",
+   "number": 6,
+   "titleKo": "Mi piace il calcio",
+   "titleFr": "J'aime le football",
+   "level": 1,
+   "grammar": "piacere · anche / neanche · goûts",
+   "situation": "Martina et Davide parlent de leurs goûts pendant une pause.",
+   "lines": [
+    {
+     "speaker": "Davide",
+     "ko": "Martina, cosa fai nel tempo libero?",
+     "fr": "Martina, qu'est-ce que tu fais pendant ton temps libre ?"
+    },
+    {
+     "speaker": "Martina",
+     "ko": "Mi piace molto leggere e andare al cinema. E a te?",
+     "fr": "J'aime beaucoup lire et aller au cinéma. Et toi ?"
+    },
+    {
+     "speaker": "Davide",
+     "ko": "A me piace lo sport. Gioco a calcio il sabato.",
+     "fr": "Moi, j'aime le sport. Je joue au foot le samedi."
+    },
+    {
+     "speaker": "Martina",
+     "ko": "Ti piacciono anche le partite in televisione?",
+     "fr": "Tu aimes aussi les matchs à la télévision ?"
+    },
+    {
+     "speaker": "Davide",
+     "ko": "Sì, tantissimo! Sono tifoso della Juventus.",
+     "fr": "Oui, énormément ! Je suis supporter de la Juventus."
+    },
+    {
+     "speaker": "Martina",
+     "ko": "A me il calcio non piace per niente.",
+     "fr": "Moi, je n'aime pas du tout le foot."
+    },
+    {
+     "speaker": "Davide",
+     "ko": "Neanche a me piace il cinema italiano moderno, però.",
+     "fr": "Moi non plus, je n'aime pas le cinéma italien moderne, par contre."
+    },
+    {
+     "speaker": "Martina",
+     "ko": "Davvero? Allora sabato ti porto a vedere un bel film!",
+     "fr": "Vraiment ? Alors samedi je t'emmène voir un beau film !"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Che cosa piace a Martina?",
+     "answer": "Leggere e il cinema.",
+     "wrong": [
+      "Il calcio.",
+      "La televisione."
+     ],
+     "why": "« Mi piace molto leggere e andare al cinema »."
+    },
+    {
+     "question": "Quando gioca a calcio Davide?",
+     "answer": "Il sabato.",
+     "wrong": [
+      "La domenica.",
+      "Ogni giorno."
+     ],
+     "why": "« Gioco a calcio il sabato »."
+    },
+    {
+     "question": "Di quale squadra è tifoso Davide?",
+     "answer": "Della Juventus.",
+     "wrong": [
+      "Della Roma.",
+      "Del Milan."
+     ],
+     "why": "« Sono tifoso della Juventus »."
+    },
+    {
+     "question": "A Martina piace il calcio?",
+     "answer": "No, per niente.",
+     "wrong": [
+      "Sì, molto.",
+      "Sì, un po'."
+     ],
+     "why": "« A me il calcio non piace per niente »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Piacere",
+     "body": "Mi piace + singulier ou infinitif, mi piacciono + pluriel. La chose aimée est le sujet."
+    },
+    {
+     "title": "A me, a te",
+     "body": "Pour insister ou comparer : a me piace, a te no. A Marco piace = Marco aime."
+    },
+    {
+     "title": "Anche / neanche",
+     "body": "Anche a me = moi aussi (accord positif). Neanche a me = moi non plus (accord négatif)."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Mi ___ i gatti.",
+     "answer": "piacciono",
+     "wrong": [
+      "piace",
+      "piaccio"
+     ],
+     "why": "Pluriel : piacciono.",
+     "translation": "J'aime les chats."
+    },
+    {
+     "question": "Ti ___ ballare?",
+     "answer": "piace",
+     "wrong": [
+      "piacciono",
+      "piaci"
+     ],
+     "why": "Infinitif : piace.",
+     "translation": "Tu aimes danser ?"
+    },
+    {
+     "question": "A Marco ___ piace la pizza.",
+     "answer": "non",
+     "wrong": [
+      "neanche",
+      "anche"
+     ],
+     "why": "La négation : non avant le pronom et le verbe.",
+     "translation": "Marco n'aime pas la pizza."
+    },
+    {
+     "question": "Mi piace il mare. ___ a me!",
+     "answer": "Anche",
+     "wrong": [
+      "Neanche",
+      "Nemmeno no"
+     ],
+     "why": "Accord positif : anche a me.",
+     "translation": "J'aime la mer. Moi aussi !"
+    },
+    {
+     "question": "Non mi piace il freddo. ___ a me.",
+     "answer": "Neanche",
+     "wrong": [
+      "Anche",
+      "Pure"
+     ],
+     "why": "Accord négatif : neanche a me.",
+     "translation": "Je n'aime pas le froid. Moi non plus."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u06_v01",
+     "hangul": "il tempo libero",
+     "romanization": "il TÈMM-po LI-bé-ro",
+     "french": "le temps libre",
+     "level": 1
+    },
+    {
+     "id": "u06_v02",
+     "hangul": "mi piace",
+     "romanization": "mi PIA-tché",
+     "french": "j'aime (ça me plaît)",
+     "level": 1
+    },
+    {
+     "id": "u06_v03",
+     "hangul": "leggere",
+     "romanization": "LÈD-djé-ré",
+     "french": "lire",
+     "level": 1
+    },
+    {
+     "id": "u06_v04",
+     "hangul": "il cinema",
+     "romanization": "il TCHI-né-ma",
+     "french": "le cinéma",
+     "level": 1
+    },
+    {
+     "id": "u06_v05",
+     "hangul": "lo sport",
+     "romanization": "lo sport",
+     "french": "le sport",
+     "level": 1
+    },
+    {
+     "id": "u06_v06",
+     "hangul": "il calcio",
+     "romanization": "il KAL-tcho",
+     "french": "le football",
+     "level": 1
+    },
+    {
+     "id": "u06_v07",
+     "hangul": "la partita",
+     "romanization": "la par-TI-ta",
+     "french": "le match",
+     "level": 1
+    },
+    {
+     "id": "u06_v08",
+     "hangul": "il tifoso",
+     "romanization": "il ti-FO-so",
+     "french": "le supporter",
+     "level": 1
+    },
+    {
+     "id": "u06_v09",
+     "hangul": "tantissimo",
+     "romanization": "tann-TIS-si-mo",
+     "french": "énormément",
+     "level": 1
+    },
+    {
+     "id": "u06_v10",
+     "hangul": "per niente",
+     "romanization": "pèr NIÈNN-té",
+     "french": "pas du tout",
+     "level": 1
+    },
+    {
+     "id": "u06_v11",
+     "hangul": "anche a me",
+     "romanization": "ANN-ké a mé",
+     "french": "moi aussi",
+     "level": 1
+    },
+    {
+     "id": "u06_v12",
+     "hangul": "neanche a me",
+     "romanization": "né-ANN-ké a mé",
+     "french": "moi non plus",
+     "level": 1
+    },
+    {
+     "id": "u06_v13",
+     "hangul": "davvero",
+     "romanization": "dav-VÉ-ro",
+     "french": "vraiment",
+     "level": 1
+    },
+    {
+     "id": "u06_v14",
+     "hangul": "il film",
+     "romanization": "il film",
+     "french": "le film",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "id": "u07",
+   "number": 7,
+   "titleKo": "Il fine settimana prossimo",
+   "titleFr": "Le week-end prochain",
+   "level": 2,
+   "grammar": "futur · stare per · proposer",
+   "situation": "Sofia et Luca organisent leur week-end à Naples.",
+   "lines": [
+    {
+     "speaker": "Luca",
+     "ko": "Sofia, cosa facciamo questo fine settimana?",
+     "fr": "Sofia, qu'est-ce qu'on fait ce week-end ?"
+    },
+    {
+     "speaker": "Sofia",
+     "ko": "Sabato mattina andremo al mercato e poi a Pompei.",
+     "fr": "Samedi matin, nous irons au marché et ensuite à Pompéi."
+    },
+    {
+     "speaker": "Luca",
+     "ko": "Ottimo! E sabato sera?",
+     "fr": "Excellent ! Et samedi soir ?"
+    },
+    {
+     "speaker": "Sofia",
+     "ko": "Che ne dici di mangiare una pizza vicino al lungomare?",
+     "fr": "Qu'est-ce que tu dirais de manger une pizza près du front de mer ?"
+    },
+    {
+     "speaker": "Luca",
+     "ko": "Perfetto. Domenica potremmo andare a Capri.",
+     "fr": "Parfait. Dimanche, on pourrait aller à Capri."
+    },
+    {
+     "speaker": "Sofia",
+     "ko": "Buona idea, ma il traghetto sarà pieno. Prenotiamo i biglietti oggi?",
+     "fr": "Bonne idée, mais le ferry sera plein. On réserve les billets aujourd'hui ?"
+    },
+    {
+     "speaker": "Luca",
+     "ko": "Sì, li compro adesso online.",
+     "fr": "Oui, je les achète maintenant en ligne."
+    },
+    {
+     "speaker": "Sofia",
+     "ko": "Allora ci vediamo sabato alle nove alla stazione.",
+     "fr": "Alors on se retrouve samedi à neuf heures à la gare."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Dove andranno sabato mattina?",
+     "answer": "Al mercato e a Pompei.",
+     "wrong": [
+      "A Capri.",
+      "Al mare."
+     ],
+     "why": "« Sabato mattina andremo al mercato e poi a Pompei »."
+    },
+    {
+     "question": "Cosa faranno sabato sera?",
+     "answer": "Mangeranno una pizza.",
+     "wrong": [
+      "Andranno al cinema.",
+      "Prenderanno il traghetto."
+     ],
+     "why": "« Mangiare una pizza vicino al lungomare »."
+    },
+    {
+     "question": "Dove vogliono andare domenica?",
+     "answer": "A Capri.",
+     "wrong": [
+      "A Pompei.",
+      "A Roma."
+     ],
+     "why": "« Domenica potremmo andare a Capri »."
+    },
+    {
+     "question": "A che ora si vedono sabato?",
+     "answer": "Alle nove.",
+     "wrong": [
+      "Alle otto.",
+      "Alle dieci."
+     ],
+     "why": "« Ci vediamo sabato alle nove alla stazione »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Le futur",
+     "body": "Andrò, andrai, andrà, andremo, andrete, andranno. Pour un projet proche, le présent suffit souvent : sabato vado a Napoli."
+    },
+    {
+     "title": "Proposer",
+     "body": "Che ne dici di + infinitif ? (qu'en dis-tu de…), perché non… ?, potremmo + infinitif (on pourrait), facciamo… ! (faisons)."
+    },
+    {
+     "title": "Ci vediamo",
+     "body": "Ci vediamo alle nove = on se retrouve à neuf heures. Vedersi = se voir."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Domani (noi, andare) ___ al mare.",
+     "answer": "andremo",
+     "wrong": [
+      "andiamo",
+      "andaremo"
+     ],
+     "why": "Andare au futur : andremo.",
+     "translation": "Demain, nous irons à la mer."
+    },
+    {
+     "question": "Il treno ___ in ritardo. (essere, futur)",
+     "answer": "sarà",
+     "wrong": [
+      "esserà",
+      "è stato"
+     ],
+     "why": "Essere au futur : sarà.",
+     "translation": "Le train sera en retard."
+    },
+    {
+     "question": "Che ne ___ di andare al cinema?",
+     "answer": "dici",
+     "wrong": [
+      "dite",
+      "dico"
+     ],
+     "why": "Avec tu : che ne dici.",
+     "translation": "Qu'est-ce que tu dirais d'aller au cinéma ?"
+    },
+    {
+     "question": "Domenica ___ andare a Capri. (on pourrait)",
+     "answer": "potremmo",
+     "wrong": [
+      "possiamo",
+      "potremo"
+     ],
+     "why": "Le conditionnel propose : potremmo.",
+     "translation": "Dimanche, on pourrait aller à Capri."
+    },
+    {
+     "question": "Ci ___ alle otto davanti al bar.",
+     "answer": "vediamo",
+     "wrong": [
+      "vedete",
+      "vede"
+     ],
+     "why": "Vedersi avec noi : ci vediamo.",
+     "translation": "On se retrouve à huit heures devant le café."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u07_v01",
+     "hangul": "il fine settimana",
+     "romanization": "il FI-né sèt-ti-MA-na",
+     "french": "le week-end",
+     "level": 2
+    },
+    {
+     "id": "u07_v02",
+     "hangul": "prossimo",
+     "romanization": "PROS-si-mo",
+     "french": "prochain",
+     "level": 2
+    },
+    {
+     "id": "u07_v03",
+     "hangul": "andremo",
+     "romanization": "ann-DRÉ-mo",
+     "french": "nous irons",
+     "level": 2
+    },
+    {
+     "id": "u07_v04",
+     "hangul": "che ne dici?",
+     "romanization": "ké né DI-tchi ?",
+     "french": "qu'en dis-tu ?",
+     "level": 2
+    },
+    {
+     "id": "u07_v05",
+     "hangul": "il lungomare",
+     "romanization": "il lounn-go-MA-ré",
+     "french": "le front de mer",
+     "level": 2
+    },
+    {
+     "id": "u07_v06",
+     "hangul": "potremmo",
+     "romanization": "po-TRÈMM-mo",
+     "french": "nous pourrions",
+     "level": 2
+    },
+    {
+     "id": "u07_v07",
+     "hangul": "il traghetto",
+     "romanization": "il tra-GUÈT-to",
+     "french": "le ferry",
+     "level": 2
+    },
+    {
+     "id": "u07_v08",
+     "hangul": "pieno",
+     "romanization": "PIÉ-no",
+     "french": "plein",
+     "level": 2
+    },
+    {
+     "id": "u07_v09",
+     "hangul": "prenotare",
+     "romanization": "pré-no-TA-ré",
+     "french": "réserver",
+     "level": 2
+    },
+    {
+     "id": "u07_v10",
+     "hangul": "il biglietto",
+     "romanization": "il bi-LYÈT-to",
+     "french": "le billet",
+     "level": 2
+    },
+    {
+     "id": "u07_v11",
+     "hangul": "online",
+     "romanization": "onn-LI-né",
+     "french": "en ligne",
+     "level": 2
+    },
+    {
+     "id": "u07_v12",
+     "hangul": "ci vediamo",
+     "romanization": "tchi vé-DIA-mo",
+     "french": "on se retrouve",
+     "level": 2
+    },
+    {
+     "id": "u07_v13",
+     "hangul": "buona idea",
+     "romanization": "BOUO-na i-DÉ-a",
+     "french": "bonne idée",
+     "level": 2
+    },
+    {
+     "id": "u07_v14",
+     "hangul": "ottimo",
+     "romanization": "OT-ti-mo",
+     "french": "excellent",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "id": "u08",
+   "number": 8,
+   "titleKo": "Com'è andato il viaggio?",
+   "titleFr": "Comment s'est passé le voyage ?",
+   "level": 2,
+   "grammar": "passé composé · avere et essere · marqueurs du passé",
+   "situation": "Paola raconte ses vacances en Sicile à son ami Marc.",
+   "lines": [
+    {
+     "speaker": "Marc",
+     "ko": "Ciao Paola! Com'è andato il viaggio in Sicilia?",
+     "fr": "Salut Paola ! Comment s'est passé le voyage en Sicile ?"
+    },
+    {
+     "speaker": "Paola",
+     "ko": "Benissimo! Sono stata a Palermo e a Siracusa.",
+     "fr": "Très bien ! J'ai été à Palerme et à Syracuse."
+    },
+    {
+     "speaker": "Marc",
+     "ko": "Quanto tempo sei rimasta?",
+     "fr": "Combien de temps es-tu restée ?"
+    },
+    {
+     "speaker": "Paola",
+     "ko": "Due settimane. Ho visitato tanti posti e ho mangiato benissimo.",
+     "fr": "Deux semaines. J'ai visité beaucoup d'endroits et j'ai très bien mangé."
+    },
+    {
+     "speaker": "Marc",
+     "ko": "Hai visto l'Etna?",
+     "fr": "Tu as vu l'Etna ?"
+    },
+    {
+     "speaker": "Paola",
+     "ko": "Sì, siamo saliti fino a tremila metri. Faceva freddo!",
+     "fr": "Oui, nous sommes montés jusqu'à trois mille mètres. Il faisait froid !"
+    },
+    {
+     "speaker": "Marc",
+     "ko": "E cosa hai mangiato di buono?",
+     "fr": "Et qu'est-ce que tu as mangé de bon ?"
+    },
+    {
+     "speaker": "Paola",
+     "ko": "Gli arancini e i cannoli. Ti ho portato dei dolci, ecco!",
+     "fr": "Les arancini et les cannoli. Je t'ai rapporté des pâtisseries, tiens !"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Dove è stata Paola?",
+     "answer": "A Palermo e a Siracusa.",
+     "wrong": [
+      "A Roma e a Napoli.",
+      "A Milano."
+     ],
+     "why": "« Sono stata a Palermo e a Siracusa »."
+    },
+    {
+     "question": "Quanto tempo è rimasta?",
+     "answer": "Due settimane.",
+     "wrong": [
+      "Una settimana.",
+      "Un mese."
+     ],
+     "why": "« Due settimane »."
+    },
+    {
+     "question": "Fin dove sono saliti sull'Etna?",
+     "answer": "A tremila metri.",
+     "wrong": [
+      "A mille metri.",
+      "In cima."
+     ],
+     "why": "« Siamo saliti fino a tremila metri »."
+    },
+    {
+     "question": "Che cosa ha portato a Marc?",
+     "answer": "Dei dolci.",
+     "wrong": [
+      "Una foto.",
+      "Del vino."
+     ],
+     "why": "« Ti ho portato dei dolci »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Passé composé avec avere",
+     "body": "Ho visitato, ho mangiato, ho visto : la plupart des verbes. Le participe ne s'accorde pas."
+    },
+    {
+     "title": "Passé composé avec essere",
+     "body": "Sono stata, sono rimasta, siamo saliti : verbes de mouvement et d'état. Le participe s'accorde avec le sujet."
+    },
+    {
+     "title": "Marqueurs du passé",
+     "body": "ieri (hier), la settimana scorsa, l'anno scorso, due giorni fa (il y a deux jours)."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Ieri ___ una pizza. (io, mangiare)",
+     "answer": "ho mangiato",
+     "wrong": [
+      "sono mangiato",
+      "ho mangiata"
+     ],
+     "why": "Mangiare prend avere.",
+     "translation": "Hier, j'ai mangé une pizza."
+    },
+    {
+     "question": "Paola ___ a Palermo. (andare)",
+     "answer": "è andata",
+     "wrong": [
+      "ha andato",
+      "è andato"
+     ],
+     "why": "Essere + accord au féminin.",
+     "translation": "Paola est allée à Palerme."
+    },
+    {
+     "question": "Noi ___ l'Etna. (vedere)",
+     "answer": "abbiamo visto",
+     "wrong": [
+      "siamo visti",
+      "abbiamo vedito"
+     ],
+     "why": "Vedere : participe irrégulier visto.",
+     "translation": "Nous avons vu l'Etna."
+    },
+    {
+     "question": "Sono arrivato due giorni ___.",
+     "answer": "fa",
+     "wrong": [
+      "prima",
+      "scorso"
+     ],
+     "why": "Il y a + durée : durée + fa.",
+     "translation": "Je suis arrivé il y a deux jours."
+    },
+    {
+     "question": "L'anno ___ siamo stati in Grecia.",
+     "answer": "scorso",
+     "wrong": [
+      "fa",
+      "passata"
+     ],
+     "why": "L'anno scorso = l'année dernière.",
+     "translation": "L'année dernière, nous sommes allés en Grèce."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u08_v01",
+     "hangul": "il viaggio",
+     "romanization": "il VIAD-djo",
+     "french": "le voyage",
+     "level": 2
+    },
+    {
+     "id": "u08_v02",
+     "hangul": "com'è andato?",
+     "romanization": "komm'É ann-DA-to ?",
+     "french": "comment ça s'est passé ?",
+     "level": 2
+    },
+    {
+     "id": "u08_v03",
+     "hangul": "sono stato",
+     "romanization": "SO-no STA-to",
+     "french": "j'ai été",
+     "level": 2
+    },
+    {
+     "id": "u08_v04",
+     "hangul": "rimanere",
+     "romanization": "ri-ma-NÉ-ré",
+     "french": "rester",
+     "level": 2
+    },
+    {
+     "id": "u08_v05",
+     "hangul": "visitare",
+     "romanization": "vi-si-TA-ré",
+     "french": "visiter",
+     "level": 2
+    },
+    {
+     "id": "u08_v06",
+     "hangul": "il posto",
+     "romanization": "il PO-sto",
+     "french": "l'endroit",
+     "level": 2
+    },
+    {
+     "id": "u08_v07",
+     "hangul": "salire",
+     "romanization": "sa-LI-ré",
+     "french": "monter",
+     "level": 2
+    },
+    {
+     "id": "u08_v08",
+     "hangul": "faceva freddo",
+     "romanization": "fa-TCHÉ-va FRÈD-do",
+     "french": "il faisait froid",
+     "level": 2
+    },
+    {
+     "id": "u08_v09",
+     "hangul": "gli arancini",
+     "romanization": "lyi a-rann-TCHI-ni",
+     "french": "les arancini (boulettes de riz frites)",
+     "level": 2
+    },
+    {
+     "id": "u08_v10",
+     "hangul": "i cannoli",
+     "romanization": "i kann-NO-li",
+     "french": "les cannoli (pâtisseries siciliennes)",
+     "level": 2
+    },
+    {
+     "id": "u08_v11",
+     "hangul": "portare",
+     "romanization": "por-TA-ré",
+     "french": "apporter, rapporter",
+     "level": 2
+    },
+    {
+     "id": "u08_v12",
+     "hangul": "ieri",
+     "romanization": "IÉ-ri",
+     "french": "hier",
+     "level": 2
+    },
+    {
+     "id": "u08_v13",
+     "hangul": "la settimana scorsa",
+     "romanization": "la sèt-ti-MA-na SKOR-sa",
+     "french": "la semaine dernière",
+     "level": 2
+    },
+    {
+     "id": "u08_v14",
+     "hangul": "due giorni fa",
+     "romanization": "doué DJOR-ni fa",
+     "french": "il y a deux jours",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "id": "u09",
+   "number": 9,
+   "titleKo": "Che cos'hai?",
+   "titleFr": "Qu'est-ce que tu as ?",
+   "level": 2,
+   "grammar": "avere mal · dovere · conseils",
+   "situation": "Laura se sent mal ; son colocataire Matteo s'inquiète.",
+   "lines": [
+    {
+     "speaker": "Matteo",
+     "ko": "Laura, che cos'hai? Sei pallida.",
+     "fr": "Laura, qu'est-ce que tu as ? Tu es pâle."
+    },
+    {
+     "speaker": "Laura",
+     "ko": "Non mi sento bene. Ho mal di testa e mal di gola.",
+     "fr": "Je ne me sens pas bien. J'ai mal à la tête et mal à la gorge."
+    },
+    {
+     "speaker": "Matteo",
+     "ko": "Hai la febbre?",
+     "fr": "Tu as de la fièvre ?"
+    },
+    {
+     "speaker": "Laura",
+     "ko": "Credo di sì. Ho freddo e sono stanchissima.",
+     "fr": "Je crois que oui. J'ai froid et je suis épuisée."
+    },
+    {
+     "speaker": "Matteo",
+     "ko": "Dovresti andare dal medico.",
+     "fr": "Tu devrais aller chez le médecin."
+    },
+    {
+     "speaker": "Laura",
+     "ko": "Ma oggi ho un esame importante!",
+     "fr": "Mais aujourd'hui j'ai un examen important !"
+    },
+    {
+     "speaker": "Matteo",
+     "ko": "Devi riposare. Ti preparo un tè caldo con il miele.",
+     "fr": "Tu dois te reposer. Je te prépare un thé chaud avec du miel."
+    },
+    {
+     "speaker": "Laura",
+     "ko": "Grazie, sei gentilissimo. Chiamo il professore per spostare l'esame.",
+     "fr": "Merci, tu es très gentil. J'appelle le professeur pour déplacer l'examen."
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Che cosa ha Laura?",
+     "answer": "Mal di testa e di gola.",
+     "wrong": [
+      "Mal di pancia.",
+      "Mal di schiena."
+     ],
+     "why": "« Ho mal di testa e mal di gola »."
+    },
+    {
+     "question": "Che cosa le consiglia Matteo?",
+     "answer": "Di andare dal medico.",
+     "wrong": [
+      "Di fare l'esame.",
+      "Di uscire."
+     ],
+     "why": "« Dovresti andare dal medico »."
+    },
+    {
+     "question": "Perché Laura non vuole restare a casa?",
+     "answer": "Ha un esame.",
+     "wrong": [
+      "Deve lavorare.",
+      "Ha un appuntamento."
+     ],
+     "why": "« Oggi ho un esame importante »."
+    },
+    {
+     "question": "Che cosa prepara Matteo?",
+     "answer": "Un tè con il miele.",
+     "wrong": [
+      "Un caffè.",
+      "Una zuppa."
+     ],
+     "why": "« Ti preparo un tè caldo con il miele »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Avere mal di",
+     "body": "Ho mal di testa, mal di gola, mal di pancia, mal di denti. Pour une partie du corps précise : mi fa male la gamba."
+    },
+    {
+     "title": "Dovere",
+     "body": "Devo, devi, deve, dobbiamo, dovete, devono + infinitif = obligation. Au conditionnel (dovresti), c'est un conseil."
+    },
+    {
+     "title": "Sentirsi",
+     "body": "Mi sento bene / male = je me sens bien / mal."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Ho mal ___ denti.",
+     "answer": "di",
+     "wrong": [
+      "a",
+      "dei"
+     ],
+     "why": "Avere mal di + partie du corps.",
+     "translation": "J'ai mal aux dents."
+    },
+    {
+     "question": "Mi fa male la ___.",
+     "answer": "gamba",
+     "wrong": [
+      "testa di",
+      "gola di"
+     ],
+     "why": "Mi fa male + article + partie du corps.",
+     "translation": "J'ai mal à la jambe."
+    },
+    {
+     "question": "Tu ___ riposare. (obligation)",
+     "answer": "devi",
+     "wrong": [
+      "deve",
+      "devo"
+     ],
+     "why": "Dovere avec tu : devi.",
+     "translation": "Tu dois te reposer."
+    },
+    {
+     "question": "___ andare dal medico. (tu, conseil)",
+     "answer": "Dovresti",
+     "wrong": [
+      "Devi",
+      "Dovrai"
+     ],
+     "why": "Conseil : conditionnel dovresti.",
+     "translation": "Tu devrais aller chez le médecin."
+    },
+    {
+     "question": "Oggi non mi ___ bene.",
+     "answer": "sento",
+     "wrong": [
+      "sente",
+      "senti"
+     ],
+     "why": "Sentirsi avec io : mi sento.",
+     "translation": "Aujourd'hui, je ne me sens pas bien."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u09_v01",
+     "hangul": "che cos'hai?",
+     "romanization": "ké kos'aï ?",
+     "french": "qu'est-ce que tu as ?",
+     "level": 2
+    },
+    {
+     "id": "u09_v02",
+     "hangul": "pallido",
+     "romanization": "pal-LI-do",
+     "french": "pâle",
+     "level": 2
+    },
+    {
+     "id": "u09_v03",
+     "hangul": "sentirsi bene",
+     "romanization": "sènn-TIR-si BÉ-né",
+     "french": "se sentir bien",
+     "level": 2
+    },
+    {
+     "id": "u09_v04",
+     "hangul": "il mal di testa",
+     "romanization": "il mal di TÉ-sta",
+     "french": "le mal de tête",
+     "level": 2
+    },
+    {
+     "id": "u09_v05",
+     "hangul": "il mal di gola",
+     "romanization": "il mal di GO-la",
+     "french": "le mal de gorge",
+     "level": 2
+    },
+    {
+     "id": "u09_v06",
+     "hangul": "la febbre",
+     "romanization": "la FÈB-bré",
+     "french": "la fièvre",
+     "level": 2
+    },
+    {
+     "id": "u09_v07",
+     "hangul": "stanchissimo",
+     "romanization": "stann-KIS-si-mo",
+     "french": "épuisé",
+     "level": 2
+    },
+    {
+     "id": "u09_v08",
+     "hangul": "dovresti",
+     "romanization": "do-VRÉ-sti",
+     "french": "tu devrais",
+     "level": 2
+    },
+    {
+     "id": "u09_v09",
+     "hangul": "riposare",
+     "romanization": "ri-po-SA-ré",
+     "french": "se reposer",
+     "level": 2
+    },
+    {
+     "id": "u09_v10",
+     "hangul": "il miele",
+     "romanization": "il MIÉ-lé",
+     "french": "le miel",
+     "level": 2
+    },
+    {
+     "id": "u09_v11",
+     "hangul": "l'esame",
+     "romanization": "l'é-SA-mé",
+     "french": "l'examen",
+     "level": 2
+    },
+    {
+     "id": "u09_v12",
+     "hangul": "spostare",
+     "romanization": "spo-STA-ré",
+     "french": "déplacer",
+     "level": 2
+    },
+    {
+     "id": "u09_v13",
+     "hangul": "mi fa male",
+     "romanization": "mi fa MA-lé",
+     "french": "j'ai mal (ça me fait mal)",
+     "level": 2
+    },
+    {
+     "id": "u09_v14",
+     "hangul": "gentilissimo",
+     "romanization": "djènn-ti-LIS-si-mo",
+     "french": "très gentil",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "id": "u10",
+   "number": 10,
+   "titleKo": "Prima e adesso",
+   "titleFr": "Avant et maintenant",
+   "level": 2,
+   "grammar": "imparfait · habitudes passées",
+   "situation": "La nonna montre à sa petite-fille Emma le village de son enfance, dans les Pouilles.",
+   "lines": [
+    {
+     "speaker": "Nonna",
+     "ko": "Vedi questa casa? Quando ero piccola, abitavo qui.",
+     "fr": "Tu vois cette maison ? Quand j'étais petite, j'habitais ici."
+    },
+    {
+     "speaker": "Emma",
+     "ko": "Davvero? E com'era il paese?",
+     "fr": "Vraiment ? Et comment était le village ?"
+    },
+    {
+     "speaker": "Nonna",
+     "ko": "Era molto tranquillo. Non c'erano macchine e tutti si conoscevano.",
+     "fr": "C'était très calme. Il n'y avait pas de voitures et tout le monde se connaissait."
+    },
+    {
+     "speaker": "Emma",
+     "ko": "Andavi a scuola qui?",
+     "fr": "Tu allais à l'école ici ?"
+    },
+    {
+     "speaker": "Nonna",
+     "ko": "Sì, la scuola era vicino alla chiesa. Ci andavo a piedi ogni mattina.",
+     "fr": "Oui, l'école était près de l'église. J'y allais à pied chaque matin."
+    },
+    {
+     "speaker": "Emma",
+     "ko": "E cosa facevi dopo la scuola?",
+     "fr": "Et qu'est-ce que tu faisais après l'école ?"
+    },
+    {
+     "speaker": "Nonna",
+     "ko": "Aiutavo mia madre e giocavo in piazza con le mie amiche.",
+     "fr": "J'aidais ma mère et je jouais sur la place avec mes amies."
+    },
+    {
+     "speaker": "Emma",
+     "ko": "Adesso il paese è molto diverso!",
+     "fr": "Maintenant le village est très différent !"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Dove abitava la nonna da piccola?",
+     "answer": "In quella casa.",
+     "wrong": [
+      "In città.",
+      "Vicino al mare."
+     ],
+     "why": "« Quando ero piccola, abitavo qui »."
+    },
+    {
+     "question": "Com'era il paese?",
+     "answer": "Tranquillo.",
+     "wrong": [
+      "Rumoroso.",
+      "Molto grande."
+     ],
+     "why": "« Era molto tranquillo »."
+    },
+    {
+     "question": "Come andava a scuola la nonna?",
+     "answer": "A piedi.",
+     "wrong": [
+      "In autobus.",
+      "In bicicletta."
+     ],
+     "why": "« Ci andavo a piedi ogni mattina »."
+    },
+    {
+     "question": "Che cosa faceva dopo la scuola?",
+     "answer": "Aiutava sua madre e giocava.",
+     "wrong": [
+      "Studiava in biblioteca.",
+      "Guardava la televisione."
+     ],
+     "why": "« Aiutavo mia madre e giocavo in piazza »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "L'imparfait",
+     "body": "Abitavo, andavo, facevo : -vo, -vi, -va, -vamo, -vate, -vano. Essere : ero, eri, era, eravamo, eravate, erano."
+    },
+    {
+     "title": "Les habitudes du passé",
+     "body": "L'imparfait raconte ce qu'on faisait souvent : ogni mattina andavo a scuola. Il décrit aussi : era tranquillo."
+    },
+    {
+     "title": "C'era / c'erano",
+     "body": "Il y avait : c'era una piazza, c'erano molti alberi."
+    }
+   ],
+   "drills": [
+    {
+     "question": "Da bambino ___ in campagna. (abitare)",
+     "answer": "abitavo",
+     "wrong": [
+      "ho abitato",
+      "abitavi"
+     ],
+     "why": "Habitude passée : imparfait.",
+     "translation": "Enfant, j'habitais à la campagne."
+    },
+    {
+     "question": "Quando ___ piccola, giocavo molto. (essere)",
+     "answer": "ero",
+     "wrong": [
+      "era stata",
+      "sono"
+     ],
+     "why": "Essere à l'imparfait : ero.",
+     "translation": "Quand j'étais petite, je jouais beaucoup."
+    },
+    {
+     "question": "Nel paese non ___ macchine.",
+     "answer": "c'erano",
+     "wrong": [
+      "c'era",
+      "ci sono stati"
+     ],
+     "why": "Pluriel : c'erano.",
+     "translation": "Dans le village, il n'y avait pas de voitures."
+    },
+    {
+     "question": "Ogni estate (noi, andare) ___ al mare.",
+     "answer": "andavamo",
+     "wrong": [
+      "siamo andati",
+      "andavano"
+     ],
+     "why": "Habitude : imparfait.",
+     "translation": "Chaque été, nous allions à la mer."
+    },
+    {
+     "question": "Cosa ___ dopo la scuola? (tu, fare)",
+     "answer": "facevi",
+     "wrong": [
+      "fai",
+      "facevo"
+     ],
+     "why": "Fare à l'imparfait : facevi.",
+     "translation": "Que faisais-tu après l'école ?"
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u10_v01",
+     "hangul": "prima",
+     "romanization": "PRI-ma",
+     "french": "avant",
+     "level": 2
+    },
+    {
+     "id": "u10_v02",
+     "hangul": "adesso",
+     "romanization": "a-DÈS-so",
+     "french": "maintenant",
+     "level": 2
+    },
+    {
+     "id": "u10_v03",
+     "hangul": "quando ero piccolo",
+     "romanization": "KOUANN-do É-ro PIK-ko-lo",
+     "french": "quand j'étais petit",
+     "level": 2
+    },
+    {
+     "id": "u10_v04",
+     "hangul": "abitavo",
+     "romanization": "a-bi-TA-vo",
+     "french": "j'habitais",
+     "level": 2
+    },
+    {
+     "id": "u10_v05",
+     "hangul": "il paese",
+     "romanization": "il pa-É-sé",
+     "french": "le village",
+     "level": 2
+    },
+    {
+     "id": "u10_v06",
+     "hangul": "tranquillo",
+     "romanization": "trann-KOUIL-lo",
+     "french": "calme",
+     "level": 2
+    },
+    {
+     "id": "u10_v07",
+     "hangul": "c'era",
+     "romanization": "tch'É-ra",
+     "french": "il y avait",
+     "level": 2
+    },
+    {
+     "id": "u10_v08",
+     "hangul": "conoscersi",
+     "romanization": "ko-no-CHÈR-si",
+     "french": "se connaître",
+     "level": 2
+    },
+    {
+     "id": "u10_v09",
+     "hangul": "la chiesa",
+     "romanization": "la KIÉ-sa",
+     "french": "l'église",
+     "level": 2
+    },
+    {
+     "id": "u10_v10",
+     "hangul": "ogni mattina",
+     "romanization": "O-gni mat-TI-na",
+     "french": "chaque matin",
+     "level": 2
+    },
+    {
+     "id": "u10_v11",
+     "hangul": "aiutare",
+     "romanization": "aïou-TA-ré",
+     "french": "aider",
+     "level": 2
+    },
+    {
+     "id": "u10_v12",
+     "hangul": "giocare",
+     "romanization": "djo-KA-ré",
+     "french": "jouer",
+     "level": 2
+    },
+    {
+     "id": "u10_v13",
+     "hangul": "diverso",
+     "romanization": "di-VÈR-so",
+     "french": "différent",
+     "level": 2
+    },
+    {
+     "id": "u10_v14",
+     "hangul": "la nonna",
+     "romanization": "la NONN-na",
+     "french": "la grand-mère",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "id": "u11",
+   "number": 11,
+   "titleKo": "Cerco casa",
+   "titleFr": "Je cherche un appartement",
+   "level": 2,
+   "grammar": "comparatifs · superlatifs · descriptions",
+   "situation": "Federico hésite entre deux appartements et demande conseil à Anna.",
+   "lines": [
+    {
+     "speaker": "Federico",
+     "ko": "Anna, ho visto due appartamenti e non so quale scegliere.",
+     "fr": "Anna, j'ai vu deux appartements et je ne sais pas lequel choisir."
+    },
+    {
+     "speaker": "Anna",
+     "ko": "Com'è il primo?",
+     "fr": "Comment est le premier ?"
+    },
+    {
+     "speaker": "Federico",
+     "ko": "È più grande e più luminoso, ma è lontano dal centro.",
+     "fr": "Il est plus grand et plus lumineux, mais il est loin du centre."
+    },
+    {
+     "speaker": "Anna",
+     "ko": "E il secondo?",
+     "fr": "Et le deuxième ?"
+    },
+    {
+     "speaker": "Federico",
+     "ko": "È più piccolo, ma è in centro ed è meno caro del primo.",
+     "fr": "Il est plus petit, mais il est au centre et il est moins cher que le premier."
+    },
+    {
+     "speaker": "Anna",
+     "ko": "Quanto costa?",
+     "fr": "Combien coûte-t-il ?"
+    },
+    {
+     "speaker": "Federico",
+     "ko": "Seicento euro al mese. Il primo costa ottocento.",
+     "fr": "Six cents euros par mois. Le premier coûte huit cents."
+    },
+    {
+     "speaker": "Anna",
+     "ko": "Secondo me il secondo è il migliore. Così puoi andare al lavoro a piedi!",
+     "fr": "À mon avis, le deuxième est le meilleur. Comme ça, tu peux aller au travail à pied !"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Com'è il primo appartamento?",
+     "answer": "Grande e luminoso.",
+     "wrong": [
+      "Piccolo e buio.",
+      "Vecchio."
+     ],
+     "why": "« È più grande e più luminoso »."
+    },
+    {
+     "question": "Dov'è il secondo appartamento?",
+     "answer": "In centro.",
+     "wrong": [
+      "In periferia.",
+      "Vicino al mare."
+     ],
+     "why": "« È in centro »."
+    },
+    {
+     "question": "Quanto costa il secondo?",
+     "answer": "600 euro al mese.",
+     "wrong": [
+      "800 euro al mese.",
+      "700 euro al mese."
+     ],
+     "why": "« Seicento euro al mese »."
+    },
+    {
+     "question": "Quale appartamento consiglia Anna?",
+     "answer": "Il secondo.",
+     "wrong": [
+      "Il primo.",
+      "Nessuno dei due."
+     ],
+     "why": "« Secondo me il secondo è il migliore »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Comparatifs",
+     "body": "più + adjectif + di (plus… que), meno + adjectif + di (moins… que), così… come (aussi… que). Di + il = del."
+    },
+    {
+     "title": "Superlatifs",
+     "body": "il più grande (le plus grand), il migliore (le meilleur), il peggiore (le pire). -issimo = très : bellissimo."
+    },
+    {
+     "title": "Secondo me",
+     "body": "Secondo me = à mon avis. Pour demander l'avis : secondo te?"
+    }
+   ],
+   "drills": [
+    {
+     "question": "Roma è più grande ___ Firenze.",
+     "answer": "di",
+     "wrong": [
+      "che",
+      "come"
+     ],
+     "why": "Deux noms comparés : di.",
+     "translation": "Rome est plus grande que Florence."
+    },
+    {
+     "question": "Questo appartamento è meno caro ___ primo.",
+     "answer": "del",
+     "wrong": [
+      "di",
+      "che il"
+     ],
+     "why": "Di + il = del.",
+     "translation": "Cet appartement est moins cher que le premier."
+    },
+    {
+     "question": "È il ___ ristorante della città. (meilleur)",
+     "answer": "migliore",
+     "wrong": [
+      "più buono di",
+      "bene"
+     ],
+     "why": "Buono → migliore.",
+     "translation": "C'est le meilleur restaurant de la ville."
+    },
+    {
+     "question": "Mio fratello è alto ___ me.",
+     "answer": "come",
+     "wrong": [
+      "di",
+      "che"
+     ],
+     "why": "Égalité : così… come (così est souvent omis).",
+     "translation": "Mon frère est aussi grand que moi."
+    },
+    {
+     "question": "La casa è ___. (très belle)",
+     "answer": "bellissima",
+     "wrong": [
+      "molto bellissima",
+      "più bella"
+     ],
+     "why": "Superlatif absolu : -issima.",
+     "translation": "La maison est très belle."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u11_v01",
+     "hangul": "cercare casa",
+     "romanization": "tchèr-KA-ré KA-sa",
+     "french": "chercher un logement",
+     "level": 2
+    },
+    {
+     "id": "u11_v02",
+     "hangul": "l'appartamento",
+     "romanization": "l'ap-par-ta-MÈNN-to",
+     "french": "l'appartement",
+     "level": 2
+    },
+    {
+     "id": "u11_v03",
+     "hangul": "scegliere",
+     "romanization": "CHÉ-lyé-ré",
+     "french": "choisir",
+     "level": 2
+    },
+    {
+     "id": "u11_v04",
+     "hangul": "luminoso",
+     "romanization": "lou-mi-NO-so",
+     "french": "lumineux",
+     "level": 2
+    },
+    {
+     "id": "u11_v05",
+     "hangul": "il centro",
+     "romanization": "il TCHÈNN-tro",
+     "french": "le centre",
+     "level": 2
+    },
+    {
+     "id": "u11_v06",
+     "hangul": "la periferia",
+     "romanization": "la pé-ri-FÉ-ria",
+     "french": "la banlieue",
+     "level": 2
+    },
+    {
+     "id": "u11_v07",
+     "hangul": "più grande di",
+     "romanization": "PIOU GRANN-dé di",
+     "french": "plus grand que",
+     "level": 2
+    },
+    {
+     "id": "u11_v08",
+     "hangul": "meno caro di",
+     "romanization": "MÉ-no KA-ro di",
+     "french": "moins cher que",
+     "level": 2
+    },
+    {
+     "id": "u11_v09",
+     "hangul": "al mese",
+     "romanization": "al MÉ-sé",
+     "french": "par mois",
+     "level": 2
+    },
+    {
+     "id": "u11_v10",
+     "hangul": "il migliore",
+     "romanization": "il mi-LYO-ré",
+     "french": "le meilleur",
+     "level": 2
+    },
+    {
+     "id": "u11_v11",
+     "hangul": "secondo me",
+     "romanization": "sé-KONN-do mé",
+     "french": "à mon avis",
+     "level": 2
+    },
+    {
+     "id": "u11_v12",
+     "hangul": "buio",
+     "romanization": "bouio",
+     "french": "sombre",
+     "level": 2
+    },
+    {
+     "id": "u11_v13",
+     "hangul": "il primo",
+     "romanization": "il PRI-mo",
+     "french": "le premier",
+     "level": 2
+    },
+    {
+     "id": "u11_v14",
+     "hangul": "il secondo",
+     "romanization": "il sé-KONN-do",
+     "french": "le deuxième",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "id": "u12",
+   "number": 12,
+   "titleKo": "Sei mai stato a…?",
+   "titleFr": "Es-tu déjà allé à… ?",
+   "level": 2,
+   "grammar": "passé composé · expériences · già / non ancora / mai",
+   "situation": "Dans une auberge de jeunesse de Milan, deux voyageurs font connaissance.",
+   "lines": [
+    {
+     "speaker": "Chiara",
+     "ko": "Ciao! Sei appena arrivato?",
+     "fr": "Salut ! Tu viens d'arriver ?"
+    },
+    {
+     "speaker": "Tom",
+     "ko": "Sì, sono arrivato stamattina da Londra. È la prima volta che vengo in Italia.",
+     "fr": "Oui, je suis arrivé ce matin de Londres. C'est la première fois que je viens en Italie."
+    },
+    {
+     "speaker": "Chiara",
+     "ko": "Davvero? Sei già stato al Duomo?",
+     "fr": "Vraiment ? Tu es déjà allé au Duomo ?"
+    },
+    {
+     "speaker": "Tom",
+     "ko": "Non ancora. Ci vado oggi pomeriggio. E tu, sei mai stata a Londra?",
+     "fr": "Pas encore. J'y vais cet après-midi. Et toi, tu es déjà allée à Londres ?"
+    },
+    {
+     "speaker": "Chiara",
+     "ko": "No, non ci sono mai stata, ma ho visitato Dublino l'anno scorso.",
+     "fr": "Non, je n'y suis jamais allée, mais j'ai visité Dublin l'année dernière."
+    },
+    {
+     "speaker": "Tom",
+     "ko": "Hai mai assaggiato il risotto alla milanese?",
+     "fr": "Tu as déjà goûté le risotto à la milanaise ?"
+    },
+    {
+     "speaker": "Chiara",
+     "ko": "Sì, tante volte! Conosco un ristorante buonissimo qui vicino.",
+     "fr": "Oui, plein de fois ! Je connais un très bon restaurant près d'ici."
+    },
+    {
+     "speaker": "Tom",
+     "ko": "Fantastico! Ci andiamo insieme stasera?",
+     "fr": "Génial ! On y va ensemble ce soir ?"
+    }
+   ],
+   "quiz": [
+    {
+     "question": "Da dove è arrivato Tom?",
+     "answer": "Da Londra.",
+     "wrong": [
+      "Da Dublino.",
+      "Da Roma."
+     ],
+     "why": "« Sono arrivato stamattina da Londra »."
+    },
+    {
+     "question": "Tom è già stato al Duomo?",
+     "answer": "Non ancora.",
+     "wrong": [
+      "Sì, ieri.",
+      "Sì, stamattina."
+     ],
+     "why": "« Non ancora. Ci vado oggi pomeriggio »."
+    },
+    {
+     "question": "Dove è stata Chiara l'anno scorso?",
+     "answer": "A Dublino.",
+     "wrong": [
+      "A Londra.",
+      "A Parigi."
+     ],
+     "why": "« Ho visitato Dublino l'anno scorso »."
+    },
+    {
+     "question": "Che cosa faranno stasera?",
+     "answer": "Andranno al ristorante.",
+     "wrong": [
+      "Visiteranno il Duomo.",
+      "Partiranno per Londra."
+     ],
+     "why": "« Ci andiamo insieme stasera? »."
+    }
+   ],
+   "rules": [
+    {
+     "title": "Les expériences",
+     "body": "Sei mai stato a…? (as-tu déjà été à…?), hai mai assaggiato…? Le passé composé raconte une expérience de la vie."
+    },
+    {
+     "title": "Già, non ancora, mai",
+     "body": "già = déjà, non… ancora = pas encore, non… mai = jamais, mai dans une question = déjà (déjà fait ?)."
+    },
+    {
+     "title": "Appena",
+     "body": "Sono appena arrivato = je viens d'arriver. Appena se place entre l'auxiliaire et le participe."
+    }
+   ],
+   "drills": [
+    {
+     "question": "___ mai stato in Sicilia? (tu)",
+     "answer": "Sei",
+     "wrong": [
+      "Hai",
+      "È"
+     ],
+     "why": "Essere + stato.",
+     "translation": "Es-tu déjà allé en Sicile ?"
+    },
+    {
+     "question": "Non ho ___ visto il film. (pas encore)",
+     "answer": "ancora",
+     "wrong": [
+      "già",
+      "mai più"
+     ],
+     "why": "Non… ancora = pas encore.",
+     "translation": "Je n'ai pas encore vu le film."
+    },
+    {
+     "question": "Non sono ___ stata a Venezia. (jamais)",
+     "answer": "mai",
+     "wrong": [
+      "già",
+      "ancora"
+     ],
+     "why": "Non… mai = jamais.",
+     "translation": "Je ne suis jamais allée à Venise."
+    },
+    {
+     "question": "Sono ___ arrivato. (je viens d'arriver)",
+     "answer": "appena",
+     "wrong": [
+      "già",
+      "fa"
+     ],
+     "why": "Appena entre l'auxiliaire et le participe.",
+     "translation": "Je viens d'arriver."
+    },
+    {
+     "question": "Hai ___ mangiato? Sì, ho mangiato un'ora fa.",
+     "answer": "già",
+     "wrong": [
+      "ancora",
+      "mai più"
+     ],
+     "why": "Già = déjà.",
+     "translation": "Tu as déjà mangé ? Oui, j'ai mangé il y a une heure."
+    }
+   ],
+   "vocab": [
+    {
+     "id": "u12_v01",
+     "hangul": "l'ostello",
+     "romanization": "l'o-STÈL-lo",
+     "french": "l'auberge de jeunesse",
+     "level": 2
+    },
+    {
+     "id": "u12_v02",
+     "hangul": "appena",
+     "romanization": "ap-PÉ-na",
+     "french": "à peine, juste",
+     "level": 2
+    },
+    {
+     "id": "u12_v03",
+     "hangul": "stamattina",
+     "romanization": "sta-mat-TI-na",
+     "french": "ce matin",
+     "level": 2
+    },
+    {
+     "id": "u12_v04",
+     "hangul": "la prima volta",
+     "romanization": "la PRI-ma VOL-ta",
+     "french": "la première fois",
+     "level": 2
+    },
+    {
+     "id": "u12_v05",
+     "hangul": "già",
+     "romanization": "DJA",
+     "french": "déjà",
+     "level": 2
+    },
+    {
+     "id": "u12_v06",
+     "hangul": "non ancora",
+     "romanization": "nonn ann-KO-ra",
+     "french": "pas encore",
+     "level": 2
+    },
+    {
+     "id": "u12_v07",
+     "hangul": "mai",
+     "romanization": "maï",
+     "french": "jamais",
+     "level": 2
+    },
+    {
+     "id": "u12_v08",
+     "hangul": "assaggiare",
+     "romanization": "as-sad-DJA-ré",
+     "french": "goûter",
+     "level": 2
+    },
+    {
+     "id": "u12_v09",
+     "hangul": "tante volte",
+     "romanization": "TANN-té VOL-té",
+     "french": "plein de fois",
+     "level": 2
+    },
+    {
+     "id": "u12_v10",
+     "hangul": "conoscere",
+     "romanization": "ko-NO-ché-ré",
+     "french": "connaître",
+     "level": 2
+    },
+    {
+     "id": "u12_v11",
+     "hangul": "insieme",
+     "romanization": "inn-SIÉ-mé",
+     "french": "ensemble",
+     "level": 2
+    },
+    {
+     "id": "u12_v12",
+     "hangul": "stasera",
+     "romanization": "sta-SÉ-ra",
+     "french": "ce soir",
+     "level": 2
+    },
+    {
+     "id": "u12_v13",
+     "hangul": "fantastico",
+     "romanization": "fann-TA-sti-ko",
+     "french": "génial",
+     "level": 2
+    },
+    {
+     "id": "u12_v14",
+     "hangul": "il Duomo",
+     "romanization": "il DOUO-mo",
+     "french": "la cathédrale (de Milan)",
+     "level": 2
+    }
+   ]
+  }
+ ]
+}

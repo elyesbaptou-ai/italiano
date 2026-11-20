@@ -1,0 +1,870 @@
+{
+ "dialogues": [
+  {
+   "id": "cafe",
+   "title": "Au bar",
+   "situation": "Tu prends ton petit-déjeuner au comptoir d'un bar de Rome.",
+   "level": 1,
+   "icon": "cup.and.saucer.fill",
+   "speakers": {
+    "A": "Barista",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Buongiorno! Cosa le preparo?",
+     "roman": "bouonn-DJOR-no ! KO-sa lé pré-PA-ro ?",
+     "fr": "Bonjour ! Qu'est-ce que je vous prépare ?",
+     "note": "Le = vous (Lei), forme de politesse."
+    },
+    {
+     "speaker": "B",
+     "ko": "Buongiorno. Un cappuccino e un cornetto, per favore.",
+     "roman": "bouonn-DJOR-no ounn kap-pout-TCHI-no é ounn kor-NÈT-to pèr fa-VO-ré",
+     "fr": "Bonjour. Un cappuccino et un croissant, s'il vous plaît.",
+     "note": "Le cornetto est le croissant italien, souvent fourré."
+    },
+    {
+     "speaker": "A",
+     "ko": "Il cornetto vuoto o alla crema?",
+     "roman": "il kor-NÈT-to VOUO-to o AL-la KRÉ-ma ?",
+     "fr": "Le croissant nature ou à la crème ?",
+     "note": "Vuoto = vide, donc nature."
+    },
+    {
+     "speaker": "B",
+     "ko": "Alla crema, grazie.",
+     "roman": "AL-la KRÉ-ma GRA-tsié",
+     "fr": "À la crème, merci."
+    },
+    {
+     "speaker": "A",
+     "ko": "Ecco a lei. Altro?",
+     "roman": "ÈK-ko a léï AL-tro ?",
+     "fr": "Voilà pour vous. Autre chose ?",
+     "note": "Altro? = autre chose ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "No, basta così. Quanto le devo?",
+     "roman": "no BA-sta ko-SI KOUANN-to lé DÉ-vo ?",
+     "fr": "Non, ça ira. Je vous dois combien ?",
+     "note": "Basta così = ça suffit comme ça."
+    },
+    {
+     "speaker": "A",
+     "ko": "Sono due euro e cinquanta.",
+     "roman": "SO-no doué ÉOU-ro é tchinn-KOUANN-ta",
+     "fr": "Ça fait deux euros cinquante."
+    },
+    {
+     "speaker": "B",
+     "ko": "Ecco a lei. Buona giornata!",
+     "roman": "ÈK-ko a léï BOUO-na djor-NA-ta !",
+     "fr": "Voici. Bonne journée !"
+    },
+    {
+     "speaker": "A",
+     "ko": "Grazie, altrettanto!",
+     "roman": "GRA-tsié al-trèt-TANN-to !",
+     "fr": "Merci, à vous aussi !",
+     "note": "Altrettanto = de même."
+    }
+   ]
+  },
+  {
+   "id": "meet",
+   "title": "Première rencontre",
+   "situation": "Tu rencontres quelqu'un lors d'un échange linguistique.",
+   "level": 1,
+   "icon": "hand.wave.fill",
+   "speakers": {
+    "A": "Giulia",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Ciao! Io sono Giulia. E tu come ti chiami?",
+     "roman": "TCHA-o ! io SO-no DJOU-lia é tou KO-mé ti KIA-mi ?",
+     "fr": "Salut ! Moi, c'est Giulia. Et toi, comment tu t'appelles ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Ciao, Giulia. Mi chiamo Léa. Piacere.",
+     "roman": "TCHA-o DJOU-lia mi KIA-mo LÉ-a pia-TCHÉ-ré",
+     "fr": "Salut, Giulia. Je m'appelle Léa. Enchantée.",
+     "note": "Piacere = enchanté(e), le même mot pour tous."
+    },
+    {
+     "speaker": "A",
+     "ko": "Piacere mio. Di dove sei?",
+     "roman": "pia-TCHÉ-ré MI-o di DO-vé séï ?",
+     "fr": "Moi de même. D'où viens-tu ?",
+     "note": "Piacere mio = le plaisir est pour moi."
+    },
+    {
+     "speaker": "B",
+     "ko": "Sono francese, di Bordeaux.",
+     "roman": "SO-no frann-TCHÉ-sé di bor-DÉ-aouks",
+     "fr": "Je suis française, de Bordeaux."
+    },
+    {
+     "speaker": "A",
+     "ko": "Che bello! E cosa fai a Bologna?",
+     "roman": "ké BÈL-lo ! é KO-sa faï a bo-LO-gna ?",
+     "fr": "Super ! Et que fais-tu à Bologne ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Studio italiano all'università.",
+     "roman": "STOU-dio i-ta-LIA-no all'ou-ni-vèr-si-TA",
+     "fr": "J'étudie l'italien à l'université."
+    },
+    {
+     "speaker": "A",
+     "ko": "Ma parli già molto bene!",
+     "roman": "ma PAR-li DJA MOL-to BÉ-né !",
+     "fr": "Mais tu parles déjà très bien !"
+    },
+    {
+     "speaker": "B",
+     "ko": "Grazie, ma ho ancora tanto da imparare.",
+     "roman": "GRA-tsié ma o ann-KO-ra TANN-to da imm-pa-RA-ré",
+     "fr": "Merci, mais j'ai encore beaucoup à apprendre.",
+     "note": "Avere da + infinitif = avoir à faire quelque chose."
+    },
+    {
+     "speaker": "A",
+     "ko": "Dai, ci vediamo giovedì per un caffè?",
+     "roman": "daï tchi vé-DIA-mo djo-vé-DI pèr ounn kaf-FÉ ?",
+     "fr": "Allez, on se voit jeudi pour un café ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Volentieri! A giovedì.",
+     "roman": "vo-lènn-TIÉ-ri ! a djo-vé-DI",
+     "fr": "Avec plaisir ! À jeudi.",
+     "note": "Volentieri = volontiers."
+    }
+   ]
+  },
+  {
+   "id": "restaurant",
+   "title": "Au restaurant",
+   "situation": "Tu dînes dans une trattoria de Florence.",
+   "level": 1,
+   "icon": "fork.knife",
+   "speakers": {
+    "A": "Cameriera",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Buonasera! Avete prenotato?",
+     "roman": "bouo-na-SÉ-ra ! a-VÉ-té pré-no-TA-to ?",
+     "fr": "Bonsoir ! Vous avez réservé ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "No, siamo in due. C'è un tavolo libero?",
+     "roman": "no SIA-mo inn doué tch'É ounn TA-vo-lo LI-bé-ro ?",
+     "fr": "Non, nous sommes deux. Il y a une table libre ?",
+     "note": "Siamo in due = nous sommes deux."
+    },
+    {
+     "speaker": "A",
+     "ko": "Sì, prego, accomodatevi. Ecco il menù.",
+     "roman": "SI PRÉ-go ak-ko-mo-da-TÉ-vi ÈK-ko il mé-NOU",
+     "fr": "Oui, je vous en prie, installez-vous. Voici la carte.",
+     "note": "Accomodarsi = s'installer."
+    },
+    {
+     "speaker": "B",
+     "ko": "Grazie. Cosa ci consiglia?",
+     "roman": "GRA-tsié KO-sa tchi konn-SI-lya ?",
+     "fr": "Merci. Que nous conseillez-vous ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Stasera abbiamo la ribollita e la bistecca alla fiorentina.",
+     "roman": "sta-SÉ-ra ab-BIA-mo la ri-bol-LI-ta é la bi-STÈK-ka AL-la fio-rènn-TI-na",
+     "fr": "Ce soir, nous avons la ribollita et la côte de bœuf à la florentine.",
+     "note": "Deux spécialités toscanes."
+    },
+    {
+     "speaker": "B",
+     "ko": "Allora per primo la ribollita, e per secondo la bistecca.",
+     "roman": "al-LO-ra pèr PRI-mo la ri-bol-LI-ta é pèr sé-KONN-do la bi-STÈK-ka",
+     "fr": "Alors en primo la ribollita, et en secondo la côte de bœuf.",
+     "note": "Le repas italien : antipasto, primo (pâtes, soupe), secondo (viande, poisson), dolce."
+    },
+    {
+     "speaker": "A",
+     "ko": "Benissimo. E da bere?",
+     "roman": "bé-NIS-si-mo é da BÉ-ré ?",
+     "fr": "Très bien. Et comme boisson ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Una bottiglia di vino rosso della casa e un'acqua frizzante.",
+     "roman": "OU-na bot-TI-lya di VI-no ROS-so DÈL-la KA-sa é ounn'AK-koua frit-TSANN-té",
+     "fr": "Une bouteille de vin rouge maison et une eau gazeuse."
+    },
+    {
+     "speaker": "A",
+     "ko": "Perfetto, arriva subito.",
+     "roman": "pèr-FÈT-to ar-RI-va SOU-bi-to",
+     "fr": "Parfait, ça arrive tout de suite."
+    },
+    {
+     "speaker": "B",
+     "ko": "Scusi, ci porta il conto, per favore?",
+     "roman": "SKOU-si tchi POR-ta il KONN-to pèr fa-VO-ré ?",
+     "fr": "Excusez-moi, vous nous apportez l'addition, s'il vous plaît ?",
+     "note": "Ci = à nous."
+    }
+   ]
+  },
+  {
+   "id": "directions",
+   "title": "Demander son chemin",
+   "situation": "Tu cherches la fontaine de Trevi.",
+   "level": 1,
+   "icon": "building.2.fill",
+   "speakers": {
+    "A": "Signore",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "B",
+     "ko": "Scusi, signore, sa dov'è la Fontana di Trevi?",
+     "roman": "SKOU-si si-GNO-ré sa dov'É la fonn-TA-na di TRÉ-vi ?",
+     "fr": "Excusez-moi, monsieur, vous savez où est la fontaine de Trevi ?",
+     "note": "Sa = vous savez (Lei)."
+    },
+    {
+     "speaker": "A",
+     "ko": "Sì, non è lontano. Va dritto fino alla piazza.",
+     "roman": "SI nonn É lonn-TA-no va DRIT-to FI-no AL-la PIAT-tsa",
+     "fr": "Oui, ce n'est pas loin. Allez tout droit jusqu'à la place."
+    },
+    {
+     "speaker": "B",
+     "ko": "E poi?",
+     "roman": "é poï ?",
+     "fr": "Et ensuite ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Poi giri a destra e prenda la seconda strada a sinistra.",
+     "roman": "poï DJI-ri a DÉ-stra é PRÈNN-da la sé-KONN-da STRA-da a si-NI-stra",
+     "fr": "Ensuite tournez à droite et prenez la deuxième rue à gauche.",
+     "note": "Giri, prenda : impératif de politesse."
+    },
+    {
+     "speaker": "B",
+     "ko": "Quanto ci vuole a piedi?",
+     "roman": "KOUANN-to tchi VOUO-lé a PIÉ-di ?",
+     "fr": "Combien de temps faut-il à pied ?",
+     "note": "Ci vuole = il faut (du temps)."
+    },
+    {
+     "speaker": "A",
+     "ko": "Cinque minuti, più o meno.",
+     "roman": "TCHINN-koué mi-NOU-ti PIOU o MÉ-no",
+     "fr": "Cinq minutes, à peu près."
+    },
+    {
+     "speaker": "B",
+     "ko": "Grazie mille, molto gentile!",
+     "roman": "GRA-tsié MIL-lé MOL-to djènn-TI-lé !",
+     "fr": "Merci beaucoup, c'est très gentil !"
+    },
+    {
+     "speaker": "A",
+     "ko": "Prego, buona visita!",
+     "roman": "PRÉ-go BOUO-na vi-SI-ta !",
+     "fr": "Je vous en prie, bonne visite !"
+    }
+   ]
+  },
+  {
+   "id": "shop",
+   "title": "Dans une boutique",
+   "situation": "Tu essaies une veste.",
+   "level": 2,
+   "icon": "bag.fill",
+   "speakers": {
+    "A": "Commessa",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Buongiorno, posso aiutarla?",
+     "roman": "bouonn-DJOR-no POS-so aïou-TAR-la ?",
+     "fr": "Bonjour, je peux vous aider ?",
+     "note": "La = vous (Lei), accroché à l'infinitif."
+    },
+    {
+     "speaker": "B",
+     "ko": "Sì, cerco una giacca leggera per la primavera.",
+     "roman": "SI TCHÈR-ko OU-na DJAK-ka lèd-DJÉ-ra pèr la pri-ma-VÉ-ra",
+     "fr": "Oui, je cherche une veste légère pour le printemps."
+    },
+    {
+     "speaker": "A",
+     "ko": "Che taglia porta?",
+     "roman": "ké TA-lya POR-ta ?",
+     "fr": "Quelle taille faites-vous ?",
+     "note": "Portare una taglia = faire une taille."
+    },
+    {
+     "speaker": "B",
+     "ko": "La quarantadue, credo.",
+     "roman": "la koua-rann-TA-doué KRÉ-do",
+     "fr": "Du quarante-deux, je crois."
+    },
+    {
+     "speaker": "A",
+     "ko": "Ecco, abbiamo questa in blu e in verde.",
+     "roman": "ÈK-ko ab-BIA-mo KOUÉ-sta inn blou é inn VÈR-dé",
+     "fr": "Voici, nous avons celle-ci en bleu et en vert."
+    },
+    {
+     "speaker": "B",
+     "ko": "Posso provare quella blu?",
+     "roman": "POS-so pro-VA-ré KOUÈL-la blou ?",
+     "fr": "Je peux essayer la bleue ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Certo, il camerino è lì in fondo.",
+     "roman": "TCHÈR-to il ka-mé-RI-no É LI inn FONN-do",
+     "fr": "Bien sûr, la cabine est là au fond."
+    },
+    {
+     "speaker": "B",
+     "ko": "Mi sta un po' stretta. Ce l'avete più grande?",
+     "roman": "mi sta ounn po'STRÈT-ta tché l'a-VÉ-té PIOU GRANN-dé ?",
+     "fr": "Elle me serre un peu. Vous l'avez plus grande ?",
+     "note": "Stare stretto = être serré."
+    },
+    {
+     "speaker": "A",
+     "ko": "Sì, ecco la quarantaquattro.",
+     "roman": "SI ÈK-ko la koua-rann-ta-KOUAT-tro",
+     "fr": "Oui, voici le quarante-quatre."
+    },
+    {
+     "speaker": "B",
+     "ko": "Perfetta! La prendo. Posso pagare con la carta?",
+     "roman": "pèr-FÈT-ta ! la PRÈNN-do POS-so pa-GA-ré konn la KAR-ta ?",
+     "fr": "Parfaite ! Je la prends. Je peux payer par carte ?"
+    }
+   ]
+  },
+  {
+   "id": "doctor",
+   "title": "Chez le médecin",
+   "situation": "Tu ne te sens pas bien depuis deux jours.",
+   "level": 2,
+   "icon": "cross.fill",
+   "speakers": {
+    "A": "Dottoressa",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Buongiorno, si accomodi. Cosa si sente?",
+     "roman": "bouonn-DJOR-no si ak-ko-MO-di KO-sa si SÈNN-té ?",
+     "fr": "Bonjour, asseyez-vous. Qu'est-ce que vous ressentez ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Ho mal di gola e un po' di febbre da due giorni.",
+     "roman": "o mal di GO-la é ounn po'di FÈB-bré da doué DJOR-ni",
+     "fr": "J'ai mal à la gorge et un peu de fièvre depuis deux jours.",
+     "note": "Da + durée = depuis."
+    },
+    {
+     "speaker": "A",
+     "ko": "Ha anche la tosse?",
+     "roman": "a ANN-ké la TOS-sé ?",
+     "fr": "Vous toussez aussi ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Sì, soprattutto di notte.",
+     "roman": "SI so-prat-TOUT-to di NOT-té",
+     "fr": "Oui, surtout la nuit."
+    },
+    {
+     "speaker": "A",
+     "ko": "Vediamo. Apra la bocca, per favore.",
+     "roman": "vé-DIA-mo A-pra la BOK-ka pèr fa-VO-ré",
+     "fr": "Voyons. Ouvrez la bouche, s'il vous plaît.",
+     "note": "Apra : impératif de politesse de aprire."
+    },
+    {
+     "speaker": "B",
+     "ko": "È qualcosa di grave?",
+     "roman": "É koual-KO-sa di GRA-vé ?",
+     "fr": "C'est quelque chose de grave ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "No, è solo un'influenza. Le prescrivo uno sciroppo.",
+     "roman": "no É SO-lo ounn'inn-FLOUÈNN-tsa lé pré-SKRI-vo OU-no chi-ROP-po",
+     "fr": "Non, c'est seulement une grippe. Je vous prescris un sirop."
+    },
+    {
+     "speaker": "B",
+     "ko": "Devo restare a casa?",
+     "roman": "DÉ-vo ré-STA-ré a KA-sa ?",
+     "fr": "Je dois rester à la maison ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Sì, si riposi per tre giorni e beva molta acqua.",
+     "roman": "SI si ri-PO-si pèr tré DJOR-ni é BÉ-va MOL-ta AK-koua",
+     "fr": "Oui, reposez-vous trois jours et buvez beaucoup d'eau.",
+     "note": "Si riposi, beva : impératifs de politesse."
+    },
+    {
+     "speaker": "B",
+     "ko": "Grazie, dottoressa.",
+     "roman": "GRA-tsié dot-to-RÈS-sa",
+     "fr": "Merci, docteure."
+    }
+   ]
+  },
+  {
+   "id": "taxi",
+   "title": "En taxi",
+   "situation": "Tu prends un taxi pour l'aéroport.",
+   "level": 2,
+   "icon": "airplane",
+   "speakers": {
+    "A": "Tassista",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "B",
+     "ko": "Buongiorno, all'aeroporto di Fiumicino, per favore.",
+     "roman": "bouonn-DJOR-no all'a-é-ro-POR-to di fiou-mi-TCHI-no pèr fa-VO-ré",
+     "fr": "Bonjour, à l'aéroport de Fiumicino, s'il vous plaît."
+    },
+    {
+     "speaker": "A",
+     "ko": "Va bene. A che ora parte il suo volo?",
+     "roman": "va BÉ-né a ké O-ra PAR-té il souo VO-lo ?",
+     "fr": "D'accord. À quelle heure part votre vol ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Alle undici. Faccio in tempo?",
+     "roman": "AL-lé OUNN-di-tchi FAT-tcho inn TÈMM-po ?",
+     "fr": "À onze heures. J'aurai le temps ?",
+     "note": "Fare in tempo = arriver à temps."
+    },
+    {
+     "speaker": "A",
+     "ko": "Sì, tranquillo. A quest'ora non c'è traffico.",
+     "roman": "SI trann-KOUIL-lo a kouèst'O-ra nonn tch'É traf-FI-ko",
+     "fr": "Oui, ne vous inquiétez pas. À cette heure-ci, il n'y a pas de circulation."
+    },
+    {
+     "speaker": "B",
+     "ko": "Quanto costa la corsa più o meno?",
+     "roman": "KOUANN-to KO-sta la KOR-sa PIOU o MÉ-no ?",
+     "fr": "Combien coûte la course à peu près ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Dal centro c'è una tariffa fissa di cinquanta euro.",
+     "roman": "dal TCHÈNN-tro tch'É OU-na ta-RIF-fa FIS-sa di tchinn-KOUANN-ta ÉOU-ro",
+     "fr": "Depuis le centre, il y a un tarif fixe de cinquante euros."
+    },
+    {
+     "speaker": "B",
+     "ko": "Posso pagare con la carta?",
+     "roman": "POS-so pa-GA-ré konn la KAR-ta ?",
+     "fr": "Je peux payer par carte ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Certo. Ecco, siamo arrivati. Terminal tre.",
+     "roman": "TCHÈR-to ÈK-ko SIA-mo ar-ri-VA-ti tèr-MI-nal tré",
+     "fr": "Bien sûr. Voilà, nous sommes arrivés. Terminal trois."
+    },
+    {
+     "speaker": "B",
+     "ko": "Perfetto, grazie. Può darmi la ricevuta?",
+     "roman": "pèr-FÈT-to GRA-tsié POUO DAR-mi la ri-tché-VOU-ta ?",
+     "fr": "Parfait, merci. Vous pouvez me donner le reçu ?",
+     "note": "La ricevuta = le reçu."
+    }
+   ]
+  },
+  {
+   "id": "hotel",
+   "title": "À l'hôtel",
+   "situation": "Tu arrives à la réception de ton hôtel à Venise.",
+   "level": 2,
+   "icon": "house.fill",
+   "speakers": {
+    "A": "Receptionist",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Buonasera, benvenuta! Ha una prenotazione?",
+     "roman": "bouo-na-SÉ-ra bènn-vé-NOU-ta ! a OU-na pré-no-ta-TSIO-né ?",
+     "fr": "Bonsoir, bienvenue ! Vous avez une réservation ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Sì, a nome Dupont, per tre notti.",
+     "roman": "SI a NO-mé DOU-pont pèr tré NOT-ti",
+     "fr": "Oui, au nom de Dupont, pour trois nuits."
+    },
+    {
+     "speaker": "A",
+     "ko": "Ecco, una camera doppia con vista sul canale.",
+     "roman": "ÈK-ko OU-na KA-mé-ra DOP-pia konn VI-sta soul ka-NA-lé",
+     "fr": "Voici, une chambre double avec vue sur le canal."
+    },
+    {
+     "speaker": "B",
+     "ko": "Che bello! La colazione è inclusa?",
+     "roman": "ké BÈL-lo ! la ko-la-TSIO-né É inn-KLOU-sa ?",
+     "fr": "Super ! Le petit-déjeuner est compris ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Sì, si serve dalle sette alle dieci nella sala al primo piano.",
+     "roman": "SI si SÈR-vé DAL-lé SÈT-té AL-lé DIÉ-tchi NÈL-la SA-la al PRI-mo PIA-no",
+     "fr": "Oui, il est servi de sept à dix heures dans la salle au premier étage.",
+     "note": "Si serve = on le sert."
+    },
+    {
+     "speaker": "B",
+     "ko": "E la password del wifi?",
+     "roman": "é la PA-ssouord dèl OUI-fi ?",
+     "fr": "Et le mot de passe du wifi ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "È scritta sulla chiave. Mi serve un documento, per favore.",
+     "roman": "É SKRIT-ta SOUL-la KIA-vé mi SÈR-vé ounn do-kou-MÈNN-to pèr fa-VO-ré",
+     "fr": "Il est écrit sur la clé. J'ai besoin d'une pièce d'identité, s'il vous plaît.",
+     "note": "Mi serve = j'ai besoin de."
+    },
+    {
+     "speaker": "B",
+     "ko": "Ecco il mio passaporto.",
+     "roman": "ÈK-ko il MI-o pas-sa-POR-to",
+     "fr": "Voici mon passeport."
+    },
+    {
+     "speaker": "A",
+     "ko": "Grazie. Buon soggiorno!",
+     "roman": "GRA-tsié bouonn sod-DJOR-no !",
+     "fr": "Merci. Bon séjour !"
+    }
+   ]
+  },
+  {
+   "id": "friend",
+   "title": "Organiser une sortie",
+   "situation": "Ton ami Marco te propose de sortir ce week-end.",
+   "level": 2,
+   "icon": "bubble",
+   "speakers": {
+    "A": "Marco",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Ehi, che fai sabato sera?",
+     "roman": "É-i ké faï SA-ba-to SÉ-ra ?",
+     "fr": "Hé, tu fais quoi samedi soir ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Niente di speciale. Perché?",
+     "roman": "NIÈNN-té di spé-TCHA-lé pèr-KÉ ?",
+     "fr": "Rien de spécial. Pourquoi ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "C'è un concerto in piazza. Ti va di venire?",
+     "roman": "tch'É ounn konn-TCHÈR-to inn PIAT-tsa ti va di vé-NI-ré ?",
+     "fr": "Il y a un concert sur la place. Ça te dit de venir ?",
+     "note": "Ti va di + infinitif = ça te dit de."
+    },
+    {
+     "speaker": "B",
+     "ko": "Sì, volentieri! A che ora comincia?",
+     "roman": "SI vo-lènn-TIÉ-ri ! a ké O-ra ko-MINN-tcha ?",
+     "fr": "Oui, avec plaisir ! Ça commence à quelle heure ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Alle nove. Prima possiamo fare un aperitivo.",
+     "roman": "AL-lé NO-vé PRI-ma pos-SIA-mo FA-ré ounn a-pé-ri-TI-vo",
+     "fr": "À neuf heures. Avant, on peut prendre un apéritif."
+    },
+    {
+     "speaker": "B",
+     "ko": "Ottima idea. Dove ci vediamo?",
+     "roman": "OT-ti-ma i-DÉ-a DO-vé tchi vé-DIA-mo ?",
+     "fr": "Excellente idée. On se retrouve où ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Al bar sotto casa mia, verso le sette e mezza.",
+     "roman": "al bar SOT-to KA-sa MI-a VÈR-so lé SÈT-té é MÈT-tsa",
+     "fr": "Au bar en bas de chez moi, vers sept heures et demie."
+    },
+    {
+     "speaker": "B",
+     "ko": "Perfetto. Porto anche la mia amica Sara?",
+     "roman": "pèr-FÈT-to POR-to ANN-ké la MI-a a-MI-ka SA-ra ?",
+     "fr": "Parfait. J'amène aussi mon amie Sara ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Certo, più siamo, meglio è!",
+     "roman": "TCHÈR-to PIOU SIA-mo MÉ-lyo É !",
+     "fr": "Bien sûr, plus on est de fous, plus on rit !",
+     "note": "Littéralement : plus nous sommes, mieux c'est."
+    }
+   ]
+  },
+  {
+   "id": "work",
+   "title": "Au travail",
+   "situation": "Ta cheffe te demande où en est un projet.",
+   "level": 3,
+   "icon": "briefcase.fill",
+   "speakers": {
+    "A": "Capa",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Buongiorno. A che punto siamo con il progetto?",
+     "roman": "bouonn-DJOR-no a ké POUNN-to SIA-mo konn il pro-DJÈT-to ?",
+     "fr": "Bonjour. Où en sommes-nous avec le projet ?",
+     "note": "A che punto = à quel point, où en est-on."
+    },
+    {
+     "speaker": "B",
+     "ko": "Abbiamo finito la prima parte ieri.",
+     "roman": "ab-BIA-mo fi-NI-to la PRI-ma PAR-té IÉ-ri",
+     "fr": "Nous avons fini la première partie hier."
+    },
+    {
+     "speaker": "A",
+     "ko": "Bene. E quando pensi di finire il resto?",
+     "roman": "BÉ-né é KOUANN-do PÈNN-si di fi-NI-ré il RÉ-sto ?",
+     "fr": "Bien. Et quand penses-tu finir le reste ?",
+     "note": "Pensare di + infinitif = penser faire."
+    },
+    {
+     "speaker": "B",
+     "ko": "Credo che ci vorranno ancora due settimane.",
+     "roman": "KRÉ-do ké tchi vor-RANN-no ann-KO-ra doué sèt-ti-MA-né",
+     "fr": "Je crois qu'il faudra encore deux semaines.",
+     "note": "Credo che + subjonctif ; ci vorranno = il faudra."
+    },
+    {
+     "speaker": "A",
+     "ko": "Il cliente vorrebbe vederlo entro venerdì prossimo.",
+     "roman": "il KLIÈNN-té vor-RÈB-bé vé-DÈR-lo ÈNN-tro vé-nèr-DI PROS-si-mo",
+     "fr": "Le client voudrait le voir d'ici vendredi prochain.",
+     "note": "Entro = d'ici, au plus tard."
+    },
+    {
+     "speaker": "B",
+     "ko": "È possibile, ma avremmo bisogno di un'altra persona.",
+     "roman": "É pos-SI-bi-lé ma a-VRÈMM-mo bi-SO-gno di ounn'AL-tra pèr-SO-na",
+     "fr": "C'est possible, mais nous aurions besoin d'une autre personne.",
+     "note": "Avremmo : conditionnel de avere."
+    },
+    {
+     "speaker": "A",
+     "ko": "D'accordo, ne parlo con le risorse umane.",
+     "roman": "d'ak-KOR-do né PAR-lo konn lé ri-SOR-sé ou-MA-né",
+     "fr": "D'accord, j'en parle aux ressources humaines.",
+     "note": "Ne = en (de cela)."
+    },
+    {
+     "speaker": "B",
+     "ko": "Grazie. Le mando un riassunto oggi pomeriggio.",
+     "roman": "GRA-tsié lé MANN-do ounn rias-SOUNN-to OD-dji po-mé-RID-djo",
+     "fr": "Merci. Je vous envoie un résumé cet après-midi.",
+     "note": "Le = à vous (Lei)."
+    }
+   ]
+  },
+  {
+   "id": "phone",
+   "title": "Au téléphone",
+   "situation": "Tu appelles le service client parce que ta commande n'est pas arrivée.",
+   "level": 3,
+   "icon": "globe",
+   "speakers": {
+    "A": "Servizio clienti",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Servizio clienti, buongiorno. Come posso aiutarla?",
+     "roman": "sèr-VI-tsio KLIÈNN-ti bouonn-DJOR-no KO-mé POS-so aïou-TAR-la ?",
+     "fr": "Service client, bonjour. Comment puis-je vous aider ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Buongiorno. Ho ordinato un computer dieci giorni fa, ma non è ancora arrivato.",
+     "roman": "bouonn-DJOR-no o or-di-NA-to ounn komm-POU-tèr DIÉ-tchi DJOR-ni fa ma nonn É ann-KO-ra ar-ri-VA-to",
+     "fr": "Bonjour. J'ai commandé un ordinateur il y a dix jours, mais il n'est pas encore arrivé.",
+     "note": "Fa = il y a (dieci giorni fa)."
+    },
+    {
+     "speaker": "A",
+     "ko": "Mi dispiace. Mi può dare il numero dell'ordine?",
+     "roman": "mi di-SPIA-tché mi POUO DA-ré il NOU-mé-ro dèll'OR-di-né ?",
+     "fr": "Je suis désolé. Vous pouvez me donner le numéro de commande ?"
+    },
+    {
+     "speaker": "B",
+     "ko": "Sì, è il quattro sette due nove otto.",
+     "roman": "SI É il KOUAT-tro SÈT-té doué NO-vé OT-to",
+     "fr": "Oui, c'est le 47298."
+    },
+    {
+     "speaker": "A",
+     "ko": "Un attimo… Il pacco è fermo al magazzino di Milano.",
+     "roman": "ounn at-TI-mo il PAK-ko É FÈR-mo al ma-gat-TSI-no di mi-LA-no",
+     "fr": "Un instant… Le colis est bloqué à l'entrepôt de Milan.",
+     "note": "Un attimo = un instant."
+    },
+    {
+     "speaker": "B",
+     "ko": "E quando potrò riceverlo?",
+     "roman": "é KOUANN-do po-TRO ri-tché-VÈR-lo ?",
+     "fr": "Et quand est-ce que je pourrai le recevoir ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Lo spediremo domani. Arriverà entro giovedì.",
+     "roman": "lo spé-di-RÉ-mo do-MA-ni ar-ri-vé-RA ÈNN-tro djo-vé-DI",
+     "fr": "Nous l'expédierons demain. Il arrivera d'ici jeudi."
+    },
+    {
+     "speaker": "B",
+     "ko": "Va bene, ma vorrei un rimborso delle spese di spedizione.",
+     "roman": "va BÉ-né ma VOR-réï ounn rimm-BOR-so DÈL-lé SPÉ-sé di spé-di-TSIO-né",
+     "fr": "D'accord, mais je voudrais un remboursement des frais de port."
+    },
+    {
+     "speaker": "A",
+     "ko": "Certo, glielo rimborsiamo subito.",
+     "roman": "TCHÈR-to LYÉ-lo rimm-bor-SIA-mo SOU-bi-to",
+     "fr": "Bien sûr, nous vous le remboursons tout de suite.",
+     "note": "Glielo = gli + lo, à vous… le."
+    }
+   ]
+  },
+  {
+   "id": "flat",
+   "title": "Visiter un appartement",
+   "situation": "Tu visites un appartement à louer à Turin.",
+   "level": 3,
+   "icon": "house.fill",
+   "speakers": {
+    "A": "Proprietaria",
+    "B": "Toi"
+   },
+   "lines": [
+    {
+     "speaker": "A",
+     "ko": "Ecco l'appartamento. Come vede, è molto luminoso.",
+     "roman": "ÈK-ko l'ap-par-ta-MÈNN-to KO-mé VÉ-dé É MOL-to lou-mi-NO-so",
+     "fr": "Voici l'appartement. Comme vous le voyez, il est très lumineux."
+    },
+    {
+     "speaker": "B",
+     "ko": "È vero. Quanti metri quadri sono?",
+     "roman": "É VÉ-ro KOUANN-ti MÉ-tri KOUA-dri SO-no ?",
+     "fr": "C'est vrai. Il fait combien de mètres carrés ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Settanta, con due camere e un balcone.",
+     "roman": "sèt-TANN-ta konn doué ka-MÉ-ré é ounn bal-KO-né",
+     "fr": "Soixante-dix, avec deux chambres et un balcon."
+    },
+    {
+     "speaker": "B",
+     "ko": "Quanto è l'affitto al mese?",
+     "roman": "KOUANN-to É l'af-FIT-to al MÉ-sé ?",
+     "fr": "À combien est le loyer par mois ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Ottocento euro, spese condominiali incluse.",
+     "roman": "ot-to-TCHÈNN-to ÉOU-ro SPÉ-sé konn-do-mi-NIA-li inn-KLOU-sé",
+     "fr": "Huit cents euros, charges de copropriété comprises.",
+     "note": "Le spese condominiali = les charges."
+    },
+    {
+     "speaker": "B",
+     "ko": "Il riscaldamento è autonomo?",
+     "roman": "il ri-skal-da-MÈNN-to É aou-to-NO-mo ?",
+     "fr": "Le chauffage est individuel ?",
+     "note": "Autonomo = individuel, à son propre compteur."
+    },
+    {
+     "speaker": "A",
+     "ko": "Sì, e la cucina è stata rinnovata l'anno scorso.",
+     "roman": "SI é la kou-TCHI-na É STA-ta rinn-no-VA-ta l'ANN-no SKOR-so",
+     "fr": "Oui, et la cuisine a été refaite l'année dernière.",
+     "note": "È stata rinnovata : passif au passé."
+    },
+    {
+     "speaker": "B",
+     "ko": "Mi piace molto. Che cosa serve per firmare il contratto?",
+     "roman": "mi PIA-tché MOL-to ké KO-sa SÈR-vé pèr fir-MA-ré il konn-TRAT-to ?",
+     "fr": "Il me plaît beaucoup. Que faut-il pour signer le bail ?"
+    },
+    {
+     "speaker": "A",
+     "ko": "Una busta paga e due mesi di deposito.",
+     "roman": "OU-na BOU-sta PA-ga é doué MÉ-si di dé-po-SI-to",
+     "fr": "Une fiche de paie et deux mois de caution."
+    },
+    {
+     "speaker": "B",
+     "ko": "Va bene. Posso pensarci fino a domani?",
+     "roman": "va BÉ-né POS-so pènn-SAR-tchi FI-no a do-MA-ni ?",
+     "fr": "D'accord. Je peux y réfléchir jusqu'à demain ?",
+     "note": "Pensarci = y penser (ci accroché à l'infinitif)."
+    }
+   ]
+  }
+ ]
+}
